@@ -132,7 +132,9 @@ def book_personal(request, slot_id):
         logger.warning(f'ОТКАЗАНО: {user_name} попытался записаться к себе')
         messages.error(request, 'Нельзя записаться к себе')
         return redirect('users:personal_trainers')
-
+    if not request.user.has_personal_trainings_access():
+        messages.error(request, 'У вас нет доступа к персональным тренировкам. Приобретите соответствующий тариф.')
+        return redirect('users:profile')
     if request.method == 'POST':
         slot.client = request.user
         slot.status = 'booked'

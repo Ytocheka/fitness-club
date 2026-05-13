@@ -1282,3 +1282,474 @@ django.core.exceptions.ImproperlyConfigured: Field name `id` is not valid for mo
 2026-05-12 15:25:46,417 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 142854
 2026-05-12 15:37:20,276 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\users\models.py changed, reloading.
 2026-05-12 15:37:21,153 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-13 09:45:18,752 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-13 09:45:21,301 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-13 09:45:21,316 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-13 09:45:21,555 - django.request - WARNING - Not Found: /favicon.ico
+2026-05-13 09:45:21,555 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 179
+2026-05-13 09:45:26,014 - django.server - INFO - "GET /admin/ HTTP/1.1" 200 14636
+2026-05-13 09:45:28,670 - django.server - INFO - "POST /admin/logout/ HTTP/1.1" 302 0
+2026-05-13 09:45:28,673 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-13 09:45:28,675 - django.server - INFO - "GET / HTTP/1.1" 200 19800
+2026-05-13 09:45:34,650 - django.server - INFO - "GET /admin/ HTTP/1.1" 302 0
+2026-05-13 09:45:34,669 - django.server - INFO - "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4259
+2026-05-13 09:45:55,100 - django.request - WARNING - Not Found: /favicon.ico
+2026-05-13 09:45:55,101 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 179
+2026-05-13 09:46:08,583 - django.server - INFO - "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2026-05-13 09:46:08,597 - django.server - INFO - "GET /admin/ HTTP/1.1" 200 14636
+2026-05-13 10:14:15,064 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-13 10:14:17,739 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 22688
+2026-05-13 10:14:17,764 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:14:17,766 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:14:17,766 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:14:17,767 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:14:17,772 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:23:41,849 - django.server - INFO - "GET /admin/users/user/25/change/ HTTP/1.1" 200 15274
+2026-05-13 10:23:41,879 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:23:41,881 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:23:41,882 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:23:41,882 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:23:41,884 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:24:51,697 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 18995
+2026-05-13 10:24:51,727 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:24:51,727 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:24:51,729 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:24:51,729 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:24:51,732 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:24:54,472 - django.server - INFO - "GET /admin/main/trainerbio/25/change/ HTTP/1.1" 200 23837
+2026-05-13 10:24:54,499 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:24:54,500 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:24:54,501 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:24:54,502 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:24:54,503 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:25:30,274 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 22688
+2026-05-13 10:25:30,304 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:25:30,305 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:25:30,306 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:25:30,306 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:25:30,308 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:25:40,426 - django.server - INFO - "POST /admin/users/user/ HTTP/1.1" 200 11736
+2026-05-13 10:25:40,451 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:25:40,452 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:25:40,452 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:25:40,453 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:25:41,310 - django.server - INFO - "POST /admin/users/user/ HTTP/1.1" 302 0
+2026-05-13 10:25:41,323 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 22198
+2026-05-13 10:25:41,346 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:25:41,347 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:25:41,348 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:25:41,348 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:25:41,350 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:25:43,266 - django.server - INFO - "GET /admin/users/user/24/change/ HTTP/1.1" 200 15308
+2026-05-13 10:25:43,293 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:25:43,294 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:25:43,295 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:25:43,295 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:25:43,296 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:26:16,713 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 18424
+2026-05-13 10:26:16,739 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:26:16,740 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:26:16,742 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:26:16,744 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:26:16,744 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:26:18,253 - django.server - INFO - "GET /admin/main/trainerbio/24/change/ HTTP/1.1" 200 23932
+2026-05-13 10:26:18,278 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:26:18,279 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:26:18,280 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:26:18,280 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:26:18,281 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:26:54,685 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 22035
+2026-05-13 10:26:54,711 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:26:54,712 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:26:54,713 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:26:54,713 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:26:54,715 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:26:58,460 - django.server - INFO - "POST /admin/users/user/ HTTP/1.1" 200 11752
+2026-05-13 10:26:58,484 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:26:58,484 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:26:58,485 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:26:58,485 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:26:59,152 - django.server - INFO - "POST /admin/users/user/ HTTP/1.1" 302 0
+2026-05-13 10:26:59,163 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 21521
+2026-05-13 10:26:59,185 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:26:59,185 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:26:59,187 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:26:59,187 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:26:59,188 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:27:01,206 - django.server - INFO - "GET /admin/users/user/26/change/ HTTP/1.1" 200 15265
+2026-05-13 10:27:01,230 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:27:01,230 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:27:01,231 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:27:01,232 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:27:01,233 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:27:34,585 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 17846
+2026-05-13 10:27:34,611 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:27:34,612 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:27:34,613 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:27:34,615 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:27:34,615 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:27:37,050 - django.server - INFO - "GET /admin/main/trainerbio/26/change/ HTTP/1.1" 200 23531
+2026-05-13 10:27:37,075 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:27:37,075 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:27:37,077 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:27:37,077 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:27:37,078 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:28:08,783 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 21358
+2026-05-13 10:28:08,812 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:28:08,812 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:28:08,814 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:08,814 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:08,815 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:28:12,588 - django.server - INFO - "POST /admin/users/user/ HTTP/1.1" 200 11732
+2026-05-13 10:28:12,612 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:28:12,613 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:28:12,613 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:12,613 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:13,235 - django.server - INFO - "POST /admin/users/user/ HTTP/1.1" 302 0
+2026-05-13 10:28:13,246 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 20872
+2026-05-13 10:28:13,268 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:28:13,268 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:28:13,269 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:13,270 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:13,271 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:28:14,234 - django.server - INFO - "GET /admin/users/user/30/change/ HTTP/1.1" 200 15281
+2026-05-13 10:28:14,259 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:28:14,260 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:28:14,261 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:14,261 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:14,263 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:28:46,179 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 17281
+2026-05-13 10:28:46,207 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:28:46,208 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:28:46,209 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:46,209 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:46,211 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:28:49,109 - django.server - INFO - "GET /admin/main/trainerbio/30/change/ HTTP/1.1" 200 22590
+2026-05-13 10:28:49,134 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:28:49,134 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:28:49,136 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:49,136 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:49,137 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:28:57,477 - django.server - INFO - "GET /admin/users/user/add/?_to_field=id&_popup=1 HTTP/1.1" 200 8592
+2026-05-13 10:28:57,504 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:28:57,505 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:28:57,507 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:57,508 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:28:57,509 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:28:58,741 - django.server - INFO - "GET /admin/main/trainerbio/30/change/ HTTP/1.1" 200 22590
+2026-05-13 10:29:06,920 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-13 10:29:06,925 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-13 10:29:09,380 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-13 10:29:09,384 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 22836
+2026-05-13 10:29:09,412 - django.server - INFO - "GET /media/trainers/3eIlAioYJmKMEA080XfEujr1KblIjQ-Z.jpg HTTP/1.1" 304 0
+2026-05-13 10:29:09,414 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 304 0
+2026-05-13 10:29:09,415 - django.server - INFO - "GET /media/trainers/653263d9a2f5eeff1e05b716_65326405c18de6.68053234.jpg HTTP/1.1" 304 0
+2026-05-13 10:29:09,417 - django.server - INFO - "GET /media/trainers/1000_F_250136584_eoJ4kBcMmpDApwoJneqsYju5milwV7Az.jpg HTTP/1.1" 304 0
+2026-05-13 10:29:09,417 - django.server - INFO - "GET /media/trainers/584e65e8f5ebb1c9778b456d_587736d7b0b28.jpg HTTP/1.1" 304 0
+2026-05-13 10:29:09,418 - django.server - INFO - "GET /media/trainers/4e72dff9022c89181495b0011bf2a6c1.jpg HTTP/1.1" 304 0
+2026-05-13 10:29:09,469 - django.server - INFO - "GET /media/trainers/55d4dab840c0885e238b4c39_59ef39e9f2e66.jpg HTTP/1.1" 304 0
+2026-05-13 10:29:35,594 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 20709
+2026-05-13 10:29:35,621 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:29:35,621 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:29:35,623 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:29:35,623 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:29:35,625 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:29:38,859 - django.server - INFO - "POST /admin/users/user/ HTTP/1.1" 200 11740
+2026-05-13 10:29:38,882 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:29:38,883 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:29:38,884 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:29:38,884 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:29:39,433 - django.server - INFO - "POST /admin/users/user/ HTTP/1.1" 302 0
+2026-05-13 10:29:39,445 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 20212
+2026-05-13 10:29:39,468 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:29:39,469 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:29:39,470 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:29:39,470 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:29:39,472 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:29:40,656 - django.server - INFO - "GET /admin/users/user/27/change/ HTTP/1.1" 200 15263
+2026-05-13 10:29:40,681 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:29:40,682 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:29:40,683 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:29:40,684 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:29:40,685 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:30:06,889 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16695
+2026-05-13 10:30:06,917 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:30:06,917 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:30:06,919 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:30:06,919 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:30:06,920 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:30:09,796 - django.server - INFO - "GET /admin/main/trainerbio/27/change/ HTTP/1.1" 200 23173
+2026-05-13 10:30:09,822 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:30:09,822 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:30:09,824 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:30:09,825 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:30:09,825 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:30:44,511 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 20049
+2026-05-13 10:30:44,540 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:30:44,541 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:30:44,542 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:30:44,544 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:30:44,544 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:30:53,726 - django.server - INFO - "GET /admin/users/user/31/change/ HTTP/1.1" 200 15264
+2026-05-13 10:30:53,752 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:30:53,752 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:30:53,754 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:30:53,754 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:30:53,755 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:31:21,883 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16695
+2026-05-13 10:31:21,914 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:31:21,915 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:31:21,916 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:31:21,917 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:31:21,918 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:31:23,272 - django.server - INFO - "GET /admin/main/trainerbio/31/change/ HTTP/1.1" 200 23442
+2026-05-13 10:31:23,299 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:31:23,300 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:31:23,301 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:31:23,301 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:31:23,303 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:31:47,993 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 20049
+2026-05-13 10:31:48,021 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:31:48,023 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:31:48,024 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:31:48,025 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:31:48,026 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:31:49,626 - django.server - INFO - "GET /admin/users/user/29/change/ HTTP/1.1" 200 15274
+2026-05-13 10:31:49,652 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:31:49,652 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:31:49,654 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:31:49,654 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:31:49,655 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:32:20,192 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16695
+2026-05-13 10:32:20,218 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:32:20,219 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:32:20,221 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:32:20,221 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:32:20,222 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:32:21,487 - django.server - INFO - "GET /admin/main/trainerbio/29/change/ HTTP/1.1" 200 22672
+2026-05-13 10:32:21,514 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:32:21,514 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:32:21,515 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:32:21,516 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:32:21,517 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:32:54,252 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 20049
+2026-05-13 10:32:54,285 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:32:54,286 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:32:54,287 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:32:54,287 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:32:54,288 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:32:56,795 - django.server - INFO - "GET /admin/users/user/23/change/ HTTP/1.1" 200 15265
+2026-05-13 10:32:56,823 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:32:56,824 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:32:56,826 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:32:56,826 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:32:56,828 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:33:20,021 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16695
+2026-05-13 10:33:20,048 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:33:20,050 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:33:20,050 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:33:20,051 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:33:20,052 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:33:22,471 - django.server - INFO - "GET /admin/main/trainerbio/23/change/ HTTP/1.1" 200 23139
+2026-05-13 10:33:22,498 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:33:22,499 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:33:22,500 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:33:22,500 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:33:22,501 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:33:49,663 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 20049
+2026-05-13 10:33:49,692 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:33:49,692 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:33:49,693 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:33:49,695 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:33:49,696 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:33:51,900 - django.server - INFO - "GET /admin/users/user/28/change/ HTTP/1.1" 200 15241
+2026-05-13 10:33:51,927 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:33:51,928 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:33:51,929 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:33:51,929 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:33:51,929 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:34:16,848 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16695
+2026-05-13 10:34:16,877 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:34:16,878 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:34:16,879 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:34:16,879 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:34:16,880 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:34:18,826 - django.server - INFO - "GET /admin/main/trainerbio/28/change/ HTTP/1.1" 200 23319
+2026-05-13 10:34:18,851 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:34:18,851 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:34:18,853 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:34:18,853 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:34:18,854 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:34:51,428 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 20049
+2026-05-13 10:34:51,454 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:34:51,454 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:34:51,455 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:34:51,455 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:34:51,457 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:34:52,877 - django.server - INFO - "GET /admin/users/user/32/change/ HTTP/1.1" 200 15314
+2026-05-13 10:34:52,904 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:34:52,905 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:34:52,907 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:34:52,907 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:34:52,908 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:35:18,305 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16695
+2026-05-13 10:35:18,334 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:35:18,335 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:35:18,335 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:35:18,336 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:35:18,337 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:35:19,168 - django.server - INFO - "GET /admin/main/trainerbio/32/change/ HTTP/1.1" 200 23395
+2026-05-13 10:35:19,195 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:35:19,196 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:35:19,196 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:35:19,197 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:35:19,198 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:36:08,032 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 16140
+2026-05-13 10:36:08,058 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:36:08,058 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:36:08,059 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:36:08,059 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:36:08,061 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:36:10,174 - django.server - INFO - "GET /admin/main/tariff/8/change/ HTTP/1.1" 200 19542
+2026-05-13 10:36:10,201 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:36:10,201 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:36:10,202 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:36:10,203 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:36:10,204 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:36:34,847 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 16140
+2026-05-13 10:36:34,873 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:36:34,873 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:36:34,875 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:36:34,875 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:36:34,876 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:36:35,736 - django.server - INFO - "GET /admin/main/tariff/9/change/ HTTP/1.1" 200 19542
+2026-05-13 10:36:35,761 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:36:35,762 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:36:35,764 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:36:35,764 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:36:35,765 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:36:52,084 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 16140
+2026-05-13 10:36:53,258 - django.server - INFO - "GET /admin/main/tariff/10/change/ HTTP/1.1" 200 19555
+2026-05-13 10:36:53,284 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:36:53,284 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:36:53,286 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:36:53,286 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:36:53,287 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:37:08,739 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 16140
+2026-05-13 10:37:09,640 - django.server - INFO - "GET /admin/main/tariff/11/change/ HTTP/1.1" 200 19559
+2026-05-13 10:37:09,666 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:37:09,667 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:37:09,668 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:37:09,668 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:37:09,668 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:37:25,307 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 16140
+2026-05-13 10:37:26,819 - django.server - INFO - "GET /admin/main/tariff/12/change/ HTTP/1.1" 200 19664
+2026-05-13 10:37:26,845 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:37:26,845 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:37:26,846 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:37:26,847 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:37:26,848 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:37:46,812 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 16140
+2026-05-13 10:37:47,765 - django.server - INFO - "GET /admin/main/tariff/13/change/ HTTP/1.1" 200 19672
+2026-05-13 10:37:47,790 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:37:47,791 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:37:47,792 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:37:47,792 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:37:47,794 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:38:07,961 - django.server - INFO - "GET /admin/main/promotion/ HTTP/1.1" 200 13673
+2026-05-13 10:38:07,988 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:38:07,989 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:38:07,990 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:38:07,991 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:38:07,992 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:38:11,017 - django.server - INFO - "GET /admin/main/promotion/3/change/ HTTP/1.1" 200 15289
+2026-05-13 10:38:11,042 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:38:11,043 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:38:11,044 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:38:11,045 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:38:11,046 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:38:34,594 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 16140
+2026-05-13 10:38:34,619 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:38:34,620 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:38:34,621 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:38:34,621 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:38:34,622 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:38:52,667 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 16620
+2026-05-13 10:38:52,693 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:38:52,693 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:38:52,695 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:38:52,696 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:38:52,697 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:38:59,976 - django.server - INFO - "GET /admin/main/workout/9/change/ HTTP/1.1" 200 20173
+2026-05-13 10:39:00,001 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:39:00,002 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:39:00,002 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:39:00,003 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:39:00,005 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:39:30,347 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 16620
+2026-05-13 10:39:30,375 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:39:30,376 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:39:30,377 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:39:30,377 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:39:30,379 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:39:31,273 - django.server - INFO - "GET /admin/main/workout/10/change/ HTTP/1.1" 200 20292
+2026-05-13 10:39:31,298 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:39:31,299 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:39:31,300 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:39:31,300 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:39:31,302 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:39:58,494 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 16620
+2026-05-13 10:39:58,520 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:39:58,522 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:39:58,522 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:39:58,524 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:39:58,524 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:39:59,338 - django.server - INFO - "GET /admin/main/workout/11/change/ HTTP/1.1" 200 20136
+2026-05-13 10:39:59,364 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:39:59,365 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:39:59,367 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:39:59,367 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:39:59,368 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:40:41,502 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 16620
+2026-05-13 10:40:41,530 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:40:41,531 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:40:41,531 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:40:41,532 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:40:41,534 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:40:42,830 - django.server - INFO - "GET /admin/main/workout/12/change/ HTTP/1.1" 200 20177
+2026-05-13 10:40:42,856 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:40:42,856 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:40:42,858 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:40:42,858 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:40:42,859 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:41:25,098 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 16620
+2026-05-13 10:41:25,126 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:41:25,127 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:41:25,128 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:41:25,129 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:41:25,130 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:41:26,128 - django.server - INFO - "GET /admin/main/workout/13/change/ HTTP/1.1" 200 20243
+2026-05-13 10:41:26,154 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:41:26,155 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:41:26,156 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:41:26,156 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:41:26,157 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:42:00,420 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 16620
+2026-05-13 10:42:00,447 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:42:00,447 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:42:00,449 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:42:00,449 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:42:00,450 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 10:42:01,503 - django.server - INFO - "GET /admin/main/workout/14/change/ HTTP/1.1" 200 20049
+2026-05-13 10:42:01,529 - django.request - WARNING - Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2026-05-13 10:42:01,530 - django.request - WARNING - Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2026-05-13 10:42:01,531 - django.server - WARNING - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2026-05-13 10:42:01,531 - django.server - WARNING - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2026-05-13 10:42:01,533 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-13 11:01:14,045 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\users\views.py changed, reloading.
+2026-05-13 11:01:14,822 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-13 11:01:19,031 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-13 11:01:19,044 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-13 11:01:19,135 - django.server - INFO - "GET /media/clubs/1.webp HTTP/1.1" 304 0
+2026-05-13 11:01:19,135 - django.server - INFO - "GET /media/clubs/2.avif HTTP/1.1" 304 0
+2026-05-13 11:01:19,142 - django.server - INFO - "GET /media/clubs/3.avif HTTP/1.1" 304 0
