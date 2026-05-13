@@ -7,16 +7,12 @@ django.setup()
 from django.contrib.auth import get_user_model
 User = get_user_model()
 
-if not User.objects.filter(email='admin@gmail.com').exists():
-    admin = User.objects.create_superuser(
-        email='admin@gmail.com',
-        full_name='Администратор',
-        phone='+79991234567',
-        birth_date='1990-01-01',
-        password='12345678'
-    )
-    print('✅ Суперпользователь создан!')
-    print('Email: admin@fitnessclub.ru')
-    print('Пароль: admin123456')
+# Найти первого пользователя и сделать его админом
+user = User.objects.first()
+if user:
+    user.is_staff = True
+    user.is_superuser = True
+    user.save()
+    print(f'✅ Пользователь {user.email} стал администратором!')
 else:
-    print('❌ Пользователь уже существует')
+    print('❌ Нет пользователей в базе')
