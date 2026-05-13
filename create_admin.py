@@ -7,7 +7,7 @@ django.setup()
 from django.contrib.auth import get_user_model
 User = get_user_model()
 
-if not User.objects.filter(email='admin@fitnessclub.ru').exists():
+if not User.objects.filter(email='admin@gmail.com').exists():
     admin = User.objects.create_superuser(
         email='admin@gmail.com',
         full_name='Администратор',
