@@ -1,0 +1,1284 @@
+2026-05-10 18:17:25,325 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-10 18:17:26,534 - main.views - INFO - ������� �������� �������
+2026-05-10 18:17:26,550 - django.server - INFO - "GET / HTTP/1.1" 200 20517
+2026-05-10 18:17:29,436 - django.server - INFO - "GET /users/logout/ HTTP/1.1" 302 0
+2026-05-10 18:17:29,439 - main.views - INFO - ������� �������� �������
+2026-05-10 18:17:29,440 - django.server - INFO - "GET / HTTP/1.1" 200 19800
+2026-05-10 18:17:30,764 - main.views - INFO - ������� �������� �������
+2026-05-10 18:17:30,766 - django.server - INFO - "GET / HTTP/1.1" 200 19800
+2026-05-10 18:17:31,232 - main.views - DEBUG - �������� ������ ��������, �������: 1
+2026-05-10 18:17:31,236 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 17317
+2026-05-10 18:17:31,942 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 61000
+2026-05-10 18:19:04,881 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\fitness_club\settings.py changed, reloading.
+2026-05-10 18:19:05,230 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-10 18:19:07,901 - main.views - INFO - ������� �������� �������
+2026-05-10 18:19:07,912 - django.server - INFO - "GET / HTTP/1.1" 200 19800
+2026-05-10 18:19:08,372 - main.views - DEBUG - �������� ������ ��������, �������: 1
+2026-05-10 18:19:08,380 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 17317
+2026-05-10 18:19:09,572 - django.server - INFO - "GET /users/login/ HTTP/1.1" 200 17829
+2026-05-10 18:19:11,992 - users.views - INFO - ����: goroxova@gmail.com ������� ����� � �������
+2026-05-10 18:19:11,995 - django.server - INFO - "POST /users/login/ HTTP/1.1" 302 0
+2026-05-10 18:19:11,999 - main.views - INFO - ������� �������� �������
+2026-05-10 18:19:12,002 - django.server - INFO - "GET / HTTP/1.1" 200 20517
+2026-05-10 18:19:31,035 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\fitness_club\settings.py changed, reloading.
+2026-05-10 18:19:31,389 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-10 18:21:16,195 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\fitness_club\settings.py changed, reloading.
+2026-05-10 18:21:16,538 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-10 18:21:17,819 - main.views - DEBUG - Запрошен список тренеров, найдено: 1
+2026-05-10 18:21:17,832 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 18034
+2026-05-10 18:21:19,118 - django.server - INFO - "GET /trainers/19/ HTTP/1.1" 200 17901
+2026-05-10 18:21:50,463 - django.server - INFO - "GET /users/logout/ HTTP/1.1" 302 0
+2026-05-10 18:21:50,466 - main.views - INFO - Главная страница открыта
+2026-05-10 18:21:50,469 - django.server - INFO - "GET / HTTP/1.1" 200 19800
+2026-05-10 18:21:51,400 - django.server - INFO - "GET /users/login/ HTTP/1.1" 200 17829
+2026-05-10 18:21:54,564 - users.views - INFO - ВХОД: goroxova@gmail.com успешно вошёл в систему
+2026-05-10 18:21:54,567 - django.server - INFO - "POST /users/login/ HTTP/1.1" 302 0
+2026-05-10 18:21:54,571 - main.views - INFO - Главная страница открыта
+2026-05-10 18:21:54,574 - django.server - INFO - "GET / HTTP/1.1" 200 20517
+2026-05-10 18:22:17,632 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 61717
+2026-05-10 18:22:25,566 - django.server - INFO - "GET /users/profile/ HTTP/1.1" 200 19759
+2026-05-10 18:22:27,341 - django.server - INFO - "GET /users/personal-trainers/ HTTP/1.1" 200 18052
+2026-05-10 18:22:29,838 - trainers.views - INFO - ТРЕНЕР: goroxova@gmail.com открыл панель управления. Групповых: 2, Персональных: 1
+2026-05-10 18:22:29,845 - django.server - INFO - "GET /trainers/dashboard/ HTTP/1.1" 200 19837
+2026-05-10 18:22:31,277 - django.server - INFO - "GET /trainers/personal-slots/ HTTP/1.1" 200 19041
+2026-05-10 18:22:32,343 - django.server - INFO - "GET /trainers/personal/15/cancel/ HTTP/1.1" 200 18780
+2026-05-10 18:22:33,518 - django.server - INFO - "POST /trainers/personal/15/cancel/ HTTP/1.1" 302 0
+2026-05-10 18:22:33,524 - django.server - INFO - "GET /trainers/personal-slots/ HTTP/1.1" 200 18158
+2026-05-10 18:25:47,504 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-10 18:25:47,877 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-10 18:26:32,864 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\users\views.py changed, reloading.
+2026-05-10 18:26:33,214 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-10 18:27:15,270 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-10 18:28:01,311 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\users\views.py changed, reloading.
+2026-05-10 18:28:03,533 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-10 18:28:41,384 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\users\views.py changed, reloading.
+2026-05-10 18:28:41,700 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-10 18:28:45,353 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-10 18:29:46,682 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\trainers\views.py changed, reloading.
+2026-05-10 18:29:47,000 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-10 18:29:49,764 - main.views - INFO - Пользователь Горохова Светлана Владимировна открыл главную страницу
+2026-05-10 18:29:49,779 - django.server - INFO - "GET / HTTP/1.1" 200 20517
+2026-05-10 18:29:52,017 - users.views - INFO - 👋 ВЫХОД: Горохова Светлана Владимировна вышел из системы
+2026-05-10 18:29:52,024 - django.server - INFO - "GET /users/logout/ HTTP/1.1" 302 0
+2026-05-10 18:29:52,027 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-10 18:29:52,028 - django.server - INFO - "GET / HTTP/1.1" 200 19800
+2026-05-10 18:29:52,924 - django.server - INFO - "GET /users/login/ HTTP/1.1" 200 17829
+2026-05-10 18:29:55,313 - users.views - INFO - ✅ ВХОД: Горохова Светлана Владимировна (goroxova@gmail.com) вошёл в систему
+2026-05-10 18:29:55,316 - django.server - INFO - "POST /users/login/ HTTP/1.1" 302 0
+2026-05-10 18:29:55,321 - main.views - INFO - Пользователь Горохова Светлана Владимировна открыл главную страницу
+2026-05-10 18:29:55,323 - django.server - INFO - "GET / HTTP/1.1" 200 20517
+2026-05-10 18:29:56,444 - main.views - INFO - Пользователь Горохова Светлана Владимировна просматривает список тарифов
+2026-05-10 18:29:56,455 - django.server - INFO - "GET /tariffs/ HTTP/1.1" 200 20355
+2026-05-10 18:29:58,667 - django.server - INFO - "GET /users/tariff/7/buy/ HTTP/1.1" 200 20384
+2026-05-10 18:29:59,826 - users.views - INFO - 💰 ПОКУПКА ТАРИФА: Горохова Светлана Владимировна купил тариф "VIP 1 месяц" со скидкой 15% за 28333.0500 ₽
+2026-05-10 18:29:59,827 - django.server - INFO - "POST /users/tariff/7/buy/ HTTP/1.1" 302 0
+2026-05-10 18:29:59,832 - users.views - INFO - 📱 ПРОФИЛЬ: Горохова Светлана Владимировна просматривает свой профиль
+2026-05-10 18:29:59,838 - django.server - INFO - "GET /users/profile/ HTTP/1.1" 200 20471
+2026-05-10 18:30:22,884 - trainers.views - INFO - 🎯 ПАНЕЛЬ ТРЕНЕРА: Горохова Светлана Владимировна открыл панель управления. Групповых: 2, Персональных: 0
+2026-05-10 18:30:22,891 - django.server - INFO - "GET /trainers/dashboard/ HTTP/1.1" 200 19332
+2026-05-10 18:30:23,794 - trainers.views - INFO - 📋 СПИСОК СЛОТОВ: Тренер Горохова Светлана Владимировна просматривает свои слоты. Всего: 0
+2026-05-10 18:30:23,797 - django.server - INFO - "GET /trainers/personal-slots/ HTTP/1.1" 200 17674
+2026-05-10 18:30:24,599 - django.server - INFO - "GET /trainers/personal-slots/create/ HTTP/1.1" 200 18623
+2026-05-10 18:30:38,103 - trainers.views - INFO - ✅ СОЗДАН СЛОТ: Тренер Горохова Светлана Владимировна создал слот на 2026-05-10 22:30-23:30
+2026-05-10 18:30:38,105 - django.server - INFO - "POST /trainers/personal-slots/create/ HTTP/1.1" 302 0
+2026-05-10 18:30:38,111 - trainers.views - INFO - 📋 СПИСОК СЛОТОВ: Тренер Горохова Светлана Владимировна просматривает свои слоты. Всего: 1
+2026-05-10 18:30:38,114 - django.server - INFO - "GET /trainers/personal-slots/ HTTP/1.1" 200 19417
+2026-05-12 11:44:13,132 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 11:44:27,394 - main.views - INFO - Пользователь Горохова Светлана Владимировна открыл главную страницу
+2026-05-12 11:44:27,422 - django.server - INFO - "GET / HTTP/1.1" 200 20517
+2026-05-12 11:44:27,537 - django.server - INFO - "GET /media/clubs/1.webp HTTP/1.1" 304 0
+2026-05-12 11:44:27,560 - django.server - INFO - "GET /media/clubs/2.avif HTTP/1.1" 304 0
+2026-05-12 11:44:27,560 - django.server - INFO - "GET /media/clubs/3.avif HTTP/1.1" 304 0
+2026-05-12 11:44:27,694 - django.request - WARNING - Not Found: /favicon.ico
+2026-05-12 11:44:27,709 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 7936
+2026-05-12 11:44:46,317 - main.views - INFO - Пользователь Горохова Светлана Владимировна просматривает список тренеров
+2026-05-12 11:44:46,331 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 18034
+2026-05-12 11:44:47,132 - main.views - INFO - Пользователь Горохова Светлана Владимировна открыл главную страницу
+2026-05-12 11:44:47,134 - django.server - INFO - "GET / HTTP/1.1" 200 20517
+2026-05-12 11:44:47,662 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 35949
+2026-05-12 11:44:48,068 - main.views - INFO - Пользователь Горохова Светлана Владимировна просматривает список тарифов
+2026-05-12 11:44:48,080 - django.server - INFO - "GET /tariffs/ HTTP/1.1" 200 20355
+2026-05-12 11:44:48,491 - main.views - INFO - Пользователь Горохова Светлана Владимировна просматривает список тренеров
+2026-05-12 11:44:48,493 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 18034
+2026-05-12 11:45:38,590 - main.views_api - DEBUG - API: запрошен список тренировок, найдено 1
+2026-05-12 11:45:38,761 - django.server - INFO - "GET /api/v1/workouts/ HTTP/1.1" 200 12517
+2026-05-12 11:45:38,786 - django.server - INFO - "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+2026-05-12 11:45:38,787 - django.server - INFO - "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+2026-05-12 11:45:38,790 - django.server - INFO - "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+2026-05-12 11:45:38,790 - django.server - INFO - "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+2026-05-12 11:45:38,791 - django.server - INFO - "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+2026-05-12 11:45:38,791 - django.server - INFO - "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+2026-05-12 11:45:38,791 - django.server - INFO - "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+2026-05-12 11:45:38,792 - django.server - INFO - "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+2026-05-12 11:45:38,800 - django.server - INFO - "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+2026-05-12 11:45:38,800 - django.server - INFO - "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+2026-05-12 11:45:38,800 - django.server - INFO - "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+2026-05-12 11:45:38,921 - django.server - INFO - "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+2026-05-12 11:45:55,134 - main.views_api - INFO - API: попытка создания тренировки с данными: {}
+2026-05-12 11:45:55,135 - main.views_api - WARNING - API: ошибка валидации при создании тренировки: {'name': [ErrorDetail(string='Обязательное поле.', code='required')], 'description': [ErrorDetail(string='Обязательное поле.', code='required')], 'duration_minutes': [ErrorDetail(string='Обязательное поле.', code='required')], 'difficulty': [ErrorDetail(string='Обязательное поле.', code='required')], 'goals': [ErrorDetail(string='Обязательное поле.', code='required')], 'image': [ErrorDetail(string='Ни одного файла не было отправлено.', code='required')]}
+2026-05-12 11:45:55,140 - django.request - WARNING - Bad Request: /api/v1/workouts/
+2026-05-12 11:45:55,140 - django.server - WARNING - "POST /api/v1/workouts/ HTTP/1.1" 400 12373
+2026-05-12 11:47:51,133 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views_api.py changed, reloading.
+2026-05-12 11:47:51,555 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 11:47:55,131 - django.request - WARNING - Not Found: /favicon.ico
+2026-05-12 11:47:55,132 - django.server - WARNING - "GET /favicon.ico HTTP/1.1" 404 7936
+2026-05-12 11:53:58,816 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views_api.py changed, reloading.
+2026-05-12 11:53:59,207 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 11:59:45,658 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\urls.py changed, reloading.
+2026-05-12 11:59:46,083 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 12:33:38,601 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 12:33:44,390 - django.request - ERROR - Internal Server Error: /api/v1/trainers/
+Traceback (most recent call last):
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\main\views_api.py", line 100, in trainer_list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\serializers.py", line 809, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\serializers.py", line 728, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\serializers.py", line 537, in to_representation
+    for field in fields:
+                 ^^^^^^
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\serializers.py", line 398, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\serializers.py", line 386, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\serializers.py", line 1132, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ~~~~~~~~~~~~~~~~^
+        source, info, model, depth
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\serializers.py", line 1278, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ytoch\PythonProject\Fitness_Club\venv\Lib\site-packages\rest_framework\serializers.py", line 1396, in build_unknown_field
+    raise ImproperlyConfigured(
+    ...<2 lines>...
+    )
+django.core.exceptions.ImproperlyConfigured: Field name `id` is not valid for model `TrainerBio` in `main.serializers.TrainerBioSerializer`.
+2026-05-12 12:33:45,447 - users.views - INFO - ✅ НОВЫЙ ПОЛЬЗОВАТЕЛЬ: New User (newuser@example.com) зарегистрировался
+2026-05-12 12:33:46,102 - users.views - WARNING - ❌ НЕУДАЧНЫЙ ВХОД: попытка входа с email user@test.com
+2026-05-12 12:33:46,751 - users.views - WARNING - ❌ НЕУДАЧНЫЙ ВХОД: попытка входа с email user@test.com
+2026-05-12 12:33:46,772 - main.views - INFO - Пользователь Гость просматривает список тренеров
+2026-05-12 12:33:46,777 - main.views - INFO - Пользователь Гость просматривает список тарифов
+2026-05-12 12:33:46,795 - users.views - INFO - 📱 ПРОФИЛЬ: Test User просматривает свой профиль
+2026-05-12 12:33:46,821 - users.views - INFO - 👥 ПЕРСОНАЛЬНЫЕ ТРЕНЕРЫ: Test User просматривает список тренеров
+2026-05-12 12:33:46,835 - trainers.views - INFO - 🎯 ПАНЕЛЬ ТРЕНЕРА: Test Trainer открыл панель управления. Групповых: 0, Персональных: 0
+2026-05-12 12:33:46,958 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 12:33:46,964 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 12:33:46,969 - main.views - INFO - Пользователь Гость просматривает список тренеров
+2026-05-12 12:33:46,977 - main.views - INFO - Пользователь Гость просматривает профиль тренера: Test Trainer
+2026-05-12 12:33:47,004 - main.views - INFO - Пользователь Гость просматривает список тарифов
+2026-05-12 12:33:47,014 - main.views - INFO - Пользователь Гость просматривает тренировку: Test Workout
+2026-05-12 12:33:47,036 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:33:47,056 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:33:47,058 - main.views - INFO -  НОВАЯ ЗАПИСЬ: Пользователь Test User записался на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:33:47,058 - main.views - INFO -  СТАТИСТИКА: На тренировке "Test Workout" записано 1/10 человек
+2026-05-12 12:33:47,071 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-11 10:00:00)
+2026-05-12 12:33:47,071 - main.views - WARNING - ОТКАЗАНО: Пользователь Test User попытался записаться на ПРОШЕДШУЮ тренировку: Test Workout (2026-05-11)
+2026-05-12 12:33:47,082 - main.views - INFO - Пользователь Test Trainer пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:33:47,083 - main.views - WARNING -  ОТКАЗАНО: Тренер Test Trainer попытался записаться на СВОЮ тренировку: Test Workout
+2026-05-12 12:33:47,093 - trainers.views - INFO - 🎯 ПАНЕЛЬ ТРЕНЕРА: Test Trainer открыл панель управления. Групповых: 0, Персональных: 0
+2026-05-12 12:33:47,120 - trainers.views - INFO - 📋 СПИСОК СЛОТОВ: Тренер Test Trainer просматривает свои слоты. Всего: 0
+2026-05-12 12:35:48,662 - users.views - INFO - ✅ НОВЫЙ ПОЛЬЗОВАТЕЛЬ: New User (newuser@example.com) зарегистрировался
+2026-05-12 12:35:49,325 - users.views - WARNING - ❌ НЕУДАЧНЫЙ ВХОД: попытка входа с email user@test.com
+2026-05-12 12:35:49,973 - users.views - WARNING - ❌ НЕУДАЧНЫЙ ВХОД: попытка входа с email user@test.com
+2026-05-12 12:35:49,996 - main.views - INFO - Пользователь Гость просматривает список тренеров
+2026-05-12 12:35:50,002 - main.views - INFO - Пользователь Гость просматривает список тарифов
+2026-05-12 12:35:50,022 - users.views - INFO - 📱 ПРОФИЛЬ: Test User просматривает свой профиль
+2026-05-12 12:35:50,037 - users.views - INFO - 👥 ПЕРСОНАЛЬНЫЕ ТРЕНЕРЫ: Test User просматривает список тренеров
+2026-05-12 12:35:50,050 - trainers.views - INFO - 🎯 ПАНЕЛЬ ТРЕНЕРА: Test Trainer открыл панель управления. Групповых: 0, Персональных: 0
+2026-05-12 12:35:50,174 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 12:35:50,180 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 12:35:50,186 - main.views - INFO - Пользователь Гость просматривает список тренеров
+2026-05-12 12:35:50,193 - main.views - INFO - Пользователь Гость просматривает профиль тренера: Test Trainer
+2026-05-12 12:35:50,207 - main.views - INFO - Пользователь Гость просматривает список тарифов
+2026-05-12 12:35:50,213 - main.views - INFO - Пользователь Гость просматривает тренировку: Test Workout
+2026-05-12 12:35:50,232 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:35:50,252 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:35:50,254 - main.views - INFO -  НОВАЯ ЗАПИСЬ: Пользователь Test User записался на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:35:50,254 - main.views - INFO -  СТАТИСТИКА: На тренировке "Test Workout" записано 1/10 человек
+2026-05-12 12:35:50,266 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-11 10:00:00)
+2026-05-12 12:35:50,267 - main.views - WARNING - ОТКАЗАНО: Пользователь Test User попытался записаться на ПРОШЕДШУЮ тренировку: Test Workout (2026-05-11)
+2026-05-12 12:35:50,277 - main.views - INFO - Пользователь Test Trainer пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:35:50,278 - main.views - WARNING -  ОТКАЗАНО: Тренер Test Trainer попытался записаться на СВОЮ тренировку: Test Workout
+2026-05-12 12:35:50,289 - trainers.views - INFO - 🎯 ПАНЕЛЬ ТРЕНЕРА: Test Trainer открыл панель управления. Групповых: 0, Персональных: 0
+2026-05-12 12:35:50,315 - trainers.views - INFO - 📋 СПИСОК СЛОТОВ: Тренер Test Trainer просматривает свои слоты. Всего: 0
+2026-05-12 12:37:22,524 - users.views - INFO - ✅ НОВЫЙ ПОЛЬЗОВАТЕЛЬ: New User (newuser@example.com) зарегистрировался
+2026-05-12 12:37:23,178 - users.views - WARNING - ❌ НЕУДАЧНЫЙ ВХОД: попытка входа с email user@test.com
+2026-05-12 12:37:23,813 - users.views - WARNING - ❌ НЕУДАЧНЫЙ ВХОД: попытка входа с email user@test.com
+2026-05-12 12:37:23,834 - main.views - INFO - Пользователь Гость просматривает список тренеров
+2026-05-12 12:37:23,840 - main.views - INFO - Пользователь Гость просматривает список тарифов
+2026-05-12 12:37:23,856 - users.views - INFO - 📱 ПРОФИЛЬ: Test User просматривает свой профиль
+2026-05-12 12:37:23,869 - users.views - INFO - 👥 ПЕРСОНАЛЬНЫЕ ТРЕНЕРЫ: Test User просматривает список тренеров
+2026-05-12 12:37:23,883 - trainers.views - INFO - 🎯 ПАНЕЛЬ ТРЕНЕРА: Test Trainer открыл панель управления. Групповых: 0, Персональных: 0
+2026-05-12 12:37:24,005 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 12:37:24,010 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 12:37:24,015 - main.views - INFO - Пользователь Гость просматривает список тренеров
+2026-05-12 12:37:24,023 - main.views - INFO - Пользователь Гость просматривает профиль тренера: Test Trainer
+2026-05-12 12:37:24,037 - main.views - INFO - Пользователь Гость просматривает список тарифов
+2026-05-12 12:37:24,043 - main.views - INFO - Пользователь Гость просматривает тренировку: Test Workout
+2026-05-12 12:37:24,062 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:37:24,082 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:37:24,084 - main.views - INFO -  НОВАЯ ЗАПИСЬ: Пользователь Test User записался на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:37:24,085 - main.views - INFO -  СТАТИСТИКА: На тренировке "Test Workout" записано 1/10 человек
+2026-05-12 12:37:24,097 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-11 10:00:00)
+2026-05-12 12:37:24,098 - main.views - WARNING - ОТКАЗАНО: Пользователь Test User попытался записаться на ПРОШЕДШУЮ тренировку: Test Workout (2026-05-11)
+2026-05-12 12:37:24,109 - main.views - INFO - Пользователь Test Trainer пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:37:24,110 - main.views - WARNING -  ОТКАЗАНО: Тренер Test Trainer попытался записаться на СВОЮ тренировку: Test Workout
+2026-05-12 12:37:24,124 - trainers.views - INFO - 🎯 ПАНЕЛЬ ТРЕНЕРА: Test Trainer открыл панель управления. Групповых: 0, Персональных: 0
+2026-05-12 12:37:24,148 - trainers.views - INFO - 📋 СПИСОК СЛОТОВ: Тренер Test Trainer просматривает свои слоты. Всего: 0
+2026-05-12 12:46:26,451 - users.views - INFO - ✅ НОВЫЙ ПОЛЬЗОВАТЕЛЬ: New User (newuser@example.com) зарегистрировался
+2026-05-12 12:46:27,139 - users.views - WARNING - ❌ НЕУДАЧНЫЙ ВХОД: попытка входа с email user@test.com
+2026-05-12 12:46:27,799 - users.views - WARNING - ❌ НЕУДАЧНЫЙ ВХОД: попытка входа с email user@test.com
+2026-05-12 12:46:27,820 - main.views - INFO - Пользователь Гость просматривает список тренеров
+2026-05-12 12:46:27,825 - main.views - INFO - Пользователь Гость просматривает список тарифов
+2026-05-12 12:46:27,844 - users.views - INFO - 📱 ПРОФИЛЬ: Test User просматривает свой профиль
+2026-05-12 12:46:27,865 - users.views - INFO - 👥 ПЕРСОНАЛЬНЫЕ ТРЕНЕРЫ: Test User просматривает список тренеров
+2026-05-12 12:46:27,877 - trainers.views - INFO - 🎯 ПАНЕЛЬ ТРЕНЕРА: Test Trainer открыл панель управления. Групповых: 0, Персональных: 0
+2026-05-12 12:46:28,002 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 12:46:28,008 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 12:46:28,014 - main.views - INFO - Пользователь Гость просматривает список тренеров
+2026-05-12 12:46:28,021 - main.views - INFO - Пользователь Гость просматривает профиль тренера: Test Trainer
+2026-05-12 12:46:28,034 - main.views - INFO - Пользователь Гость просматривает список тарифов
+2026-05-12 12:46:28,041 - main.views - INFO - Пользователь Гость просматривает тренировку: Test Workout
+2026-05-12 12:46:28,060 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:46:28,080 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:46:28,082 - main.views - INFO -  НОВАЯ ЗАПИСЬ: Пользователь Test User записался на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:46:28,082 - main.views - INFO -  СТАТИСТИКА: На тренировке "Test Workout" записано 1/10 человек
+2026-05-12 12:46:28,094 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-11 10:00:00)
+2026-05-12 12:46:28,095 - main.views - WARNING - ОТКАЗАНО: Пользователь Test User попытался записаться на ПРОШЕДШУЮ тренировку: Test Workout (2026-05-11)
+2026-05-12 12:46:28,105 - main.views - INFO - Пользователь Test Trainer пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 12:46:28,106 - main.views - WARNING -  ОТКАЗАНО: Тренер Test Trainer попытался записаться на СВОЮ тренировку: Test Workout
+2026-05-12 12:46:28,116 - trainers.views - INFO - 🎯 ПАНЕЛЬ ТРЕНЕРА: Test Trainer открыл панель управления. Групповых: 0, Персональных: 0
+2026-05-12 12:46:28,142 - trainers.views - INFO - 📋 СПИСОК СЛОТОВ: Тренер Test Trainer просматривает свои слоты. Всего: 0
+2026-05-12 13:20:16,416 - users.views - INFO - НОВЫЙ ПОЛЬЗОВАТЕЛЬ: New User (newuser@example.com) зарегистрировался
+2026-05-12 13:20:16,940 - users.views - WARNING -  НЕУДАЧНЫЙ ВХОД: попытка входа с email user@test.com
+2026-05-12 13:20:17,464 - users.views - WARNING -  НЕУДАЧНЫЙ ВХОД: попытка входа с email user@test.com
+2026-05-12 13:20:17,485 - main.views - INFO - Пользователь Гость просматривает список тренеров
+2026-05-12 13:20:17,490 - main.views - INFO - Пользователь Гость просматривает список тарифов
+2026-05-12 13:20:17,503 - users.views - INFO - ПРОФИЛЬ: Test User просматривает свой профиль
+2026-05-12 13:20:17,515 - users.views - INFO - ПЕРСОНАЛЬНЫЕ ТРЕНЕРЫ: Test User просматривает список тренеров
+2026-05-12 13:20:17,527 - trainers.views - INFO -  ПАНЕЛЬ ТРЕНЕРА: Test Trainer открыл панель управления. Групповых: 0, Персональных: 0
+2026-05-12 13:20:17,622 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 13:20:17,627 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 13:20:17,633 - main.views - INFO - Пользователь Гость просматривает список тренеров
+2026-05-12 13:20:17,639 - main.views - INFO - Пользователь Гость просматривает профиль тренера: Test Trainer
+2026-05-12 13:20:17,650 - main.views - INFO - Пользователь Гость просматривает список тарифов
+2026-05-12 13:20:17,655 - main.views - INFO - Пользователь Гость просматривает тренировку: Test Workout
+2026-05-12 13:20:17,672 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 13:20:17,689 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 13:20:17,691 - main.views - INFO -  НОВАЯ ЗАПИСЬ: Пользователь Test User записался на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 13:20:17,691 - main.views - INFO -  СТАТИСТИКА: На тренировке "Test Workout" записано 1/10 человек
+2026-05-12 13:20:17,702 - main.views - INFO - Пользователь Test User пытается записаться на тренировку: Test Workout (2026-05-11 10:00:00)
+2026-05-12 13:20:17,702 - main.views - WARNING - ОТКАЗАНО: Пользователь Test User попытался записаться на ПРОШЕДШУЮ тренировку: Test Workout (2026-05-11)
+2026-05-12 13:20:17,712 - main.views - INFO - Пользователь Test Trainer пытается записаться на тренировку: Test Workout (2026-05-13 10:00:00)
+2026-05-12 13:20:17,712 - main.views - WARNING -  ОТКАЗАНО: Тренер Test Trainer попытался записаться на СВОЮ тренировку: Test Workout
+2026-05-12 13:20:17,721 - trainers.views - INFO -  ПАНЕЛЬ ТРЕНЕРА: Test Trainer открыл панель управления. Групповых: 0, Персональных: 0
+2026-05-12 13:20:17,747 - trainers.views - INFO -  СПИСОК СЛОТОВ: Тренер Test Trainer просматривает свои слоты. Всего: 0
+2026-05-12 13:20:20,668 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 13:20:24,344 - main.views - INFO - Пользователь Горохова Светлана Владимировна открыл главную страницу
+2026-05-12 13:20:24,482 - django.server - INFO - "GET / HTTP/1.1" 200 20517
+2026-05-12 13:20:31,180 - main.views - INFO - Пользователь Горохова Светлана Владимировна открыл главную страницу
+2026-05-12 13:20:31,183 - django.server - INFO - "GET / HTTP/1.1" 200 20517
+2026-05-12 13:20:32,433 - main.views - INFO - Пользователь Горохова Светлана Владимировна просматривает список тренеров
+2026-05-12 13:20:32,443 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 18034
+2026-05-12 13:20:34,351 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 35949
+2026-05-12 13:20:35,076 - main.views - INFO - Пользователь Горохова Светлана Владимировна просматривает список тарифов
+2026-05-12 13:20:35,092 - django.server - INFO - "GET /tariffs/ HTTP/1.1" 200 20355
+2026-05-12 13:20:38,133 - users.views - INFO -  ВЫХОД: Горохова Светлана Владимировна вышел из системы
+2026-05-12 13:20:38,143 - django.server - INFO - "GET /users/logout/ HTTP/1.1" 302 0
+2026-05-12 13:20:38,149 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 13:20:38,152 - django.server - INFO - "GET / HTTP/1.1" 200 19800
+2026-05-12 13:20:45,459 - django.server - INFO - "GET /admin/ HTTP/1.1" 302 0
+2026-05-12 13:20:45,496 - django.server - INFO - "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4259
+2026-05-12 13:20:45,636 - django.server - INFO - "GET /static/admin/css/base.css HTTP/1.1" 304 0
+2026-05-12 13:20:45,638 - django.server - INFO - "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+2026-05-12 13:20:45,641 - django.server - INFO - "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+2026-05-12 13:20:45,644 - django.server - INFO - "GET /static/admin/css/login.css HTTP/1.1" 304 0
+2026-05-12 13:20:45,645 - django.server - INFO - "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+2026-05-12 13:20:45,646 - django.server - INFO - "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+2026-05-12 13:20:45,678 - django.server - INFO - "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+2026-05-12 13:20:52,419 - django.server - INFO - "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2026-05-12 13:20:52,481 - django.server - INFO - "GET /admin/ HTTP/1.1" 200 14628
+2026-05-12 13:20:52,536 - django.server - INFO - "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+2026-05-12 13:20:52,537 - django.server - INFO - "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2026-05-12 13:20:52,538 - django.server - INFO - "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+2026-05-12 13:20:52,565 - django.server - INFO - "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+2026-05-12 13:20:52,871 - django.server - INFO - "GET /admin/main/tariff/7/change/ HTTP/1.1" 200 19544
+2026-05-12 13:20:52,918 - django.server - INFO - "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+2026-05-12 13:20:52,933 - django.server - INFO - "GET /static/admin/js/core.js HTTP/1.1" 304 0
+2026-05-12 13:20:52,935 - django.server - INFO - "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2026-05-12 13:20:52,936 - django.server - INFO - "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+2026-05-12 13:20:52,938 - django.server - INFO - "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+2026-05-12 13:20:52,939 - django.server - INFO - "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+2026-05-12 13:20:52,943 - django.server - INFO - "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+2026-05-12 13:20:52,949 - django.server - INFO - "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+2026-05-12 13:20:52,952 - django.server - INFO - "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+2026-05-12 13:20:52,958 - django.server - INFO - "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+2026-05-12 13:20:52,970 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:20:53,281 - django.server - INFO - "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+2026-05-12 13:20:53,297 - django.server - INFO - "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+2026-05-12 13:20:54,684 - django.server - INFO - "GET /admin/ HTTP/1.1" 200 14628
+2026-05-12 13:20:56,230 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 18779
+2026-05-12 13:20:56,282 - django.server - INFO - "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+2026-05-12 13:20:56,283 - django.server - INFO - "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+2026-05-12 13:20:56,284 - django.server - INFO - "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+2026-05-12 13:20:56,288 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:20:56,288 - django.server - INFO - "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+2026-05-12 13:20:56,296 - django.server - INFO - "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+2026-05-12 13:20:56,332 - django.server - INFO - "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+2026-05-12 13:20:56,333 - django.server - INFO - "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+2026-05-12 13:20:56,337 - django.server - INFO - "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+2026-05-12 13:21:06,913 - django.server - INFO - "POST /admin/users/user/ HTTP/1.1" 200 12739
+2026-05-12 13:21:06,971 - django.server - INFO - "GET /static/admin/js/cancel.js HTTP/1.1" 304 0
+2026-05-12 13:21:08,506 - django.server - INFO - "POST /admin/users/user/ HTTP/1.1" 302 0
+2026-05-12 13:21:08,540 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 16299
+2026-05-12 13:21:08,597 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:21:08,624 - django.server - INFO - "GET /static/admin/img/icon-yes-dark.svg HTTP/1.1" 304 0
+2026-05-12 13:21:10,128 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 13859
+2026-05-12 13:21:10,189 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:21:14,133 - django.server - INFO - "POST /admin/main/workout/ HTTP/1.1" 200 12323
+2026-05-12 13:21:15,065 - django.server - INFO - "POST /admin/main/workout/ HTTP/1.1" 302 0
+2026-05-12 13:21:15,113 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 11619
+2026-05-12 13:21:15,155 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:21:16,032 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 13571
+2026-05-12 13:21:16,108 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:21:19,380 - django.server - INFO - "POST /admin/main/tariff/ HTTP/1.1" 200 11523
+2026-05-12 13:21:20,320 - django.server - INFO - "POST /admin/main/tariff/ HTTP/1.1" 302 0
+2026-05-12 13:21:20,351 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 11553
+2026-05-12 13:21:20,402 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:21:21,292 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 11462
+2026-05-12 13:21:21,339 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:21:22,403 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 11550
+2026-05-12 13:21:22,446 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:21:24,166 - django.server - INFO - "GET /admin/main/promotion/ HTTP/1.1" 200 13665
+2026-05-12 13:21:24,227 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:21:27,066 - django.server - INFO - "POST /admin/main/promotion/ HTTP/1.1" 200 11423
+2026-05-12 13:21:27,788 - django.server - INFO - "POST /admin/main/promotion/ HTTP/1.1" 302 0
+2026-05-12 13:21:27,810 - django.server - INFO - "GET /admin/main/promotion/ HTTP/1.1" 200 11553
+2026-05-12 13:21:27,847 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:21:32,252 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 16136
+2026-05-12 13:21:32,304 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:21:40,263 - django.server - INFO - "GET /admin/users/user/add/ HTTP/1.1" 200 16409
+2026-05-12 13:21:40,343 - django.server - INFO - "GET /static/admin/css/unusable_password_field.css HTTP/1.1" 304 0
+2026-05-12 13:21:40,343 - django.server - INFO - "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+2026-05-12 13:21:40,344 - django.server - INFO - "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+2026-05-12 13:21:40,351 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:21:40,463 - django.server - INFO - "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+2026-05-12 13:22:20,667 - django.server - INFO - "POST /admin/users/user/add/ HTTP/1.1" 302 0
+2026-05-12 13:22:20,705 - django.server - INFO - "GET /admin/users/user/23/change/ HTTP/1.1" 200 15599
+2026-05-12 13:22:20,749 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:22:30,571 - django.server - INFO - "GET /admin/main/promotion/ HTTP/1.1" 200 11404
+2026-05-12 13:22:30,622 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:22:31,450 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 11550
+2026-05-12 13:22:31,500 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:22:32,945 - django.server - INFO - "GET /admin/main/trainerbio/add/ HTTP/1.1" 200 17571
+2026-05-12 13:22:33,002 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:23:15,055 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 16787
+2026-05-12 13:23:15,271 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:23:17,010 - django.server - INFO - "GET /admin/users/user/23/change/ HTTP/1.1" 200 15257
+2026-05-12 13:23:17,065 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:23:27,711 - django.server - INFO - "POST /admin/users/user/23/change/ HTTP/1.1" 302 0
+2026-05-12 13:23:27,739 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 17053
+2026-05-12 13:23:27,775 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:25:29,378 - django.server - INFO - "POST /admin/main/trainerbio/add/ HTTP/1.1" 302 0
+2026-05-12 13:25:29,411 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 13995
+2026-05-12 13:25:29,451 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:25:32,608 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 13:25:32,612 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 13:25:34,347 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 13:25:34,354 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 17726
+2026-05-12 13:25:34,500 - django.server - INFO - "GET /media/trainers/3eIlAioYJmKMEA080XfEujr1KblIjQ-Z.jpg HTTP/1.1" 200 1068075
+2026-05-12 13:25:39,092 - main.views - INFO - Пользователь Администратор просматривает профиль тренера: Тестова Полина Дмитриевна
+2026-05-12 13:25:39,097 - django.server - INFO - "GET /trainers/23/ HTTP/1.1" 200 22121
+2026-05-12 13:25:39,142 - django.server - INFO - "GET /media/trainers/3eIlAioYJmKMEA080XfEujr1KblIjQ-Z.jpg HTTP/1.1" 304 0
+2026-05-12 13:25:49,278 - users.views - INFO -  ВЫХОД: Администратор вышел из системы
+2026-05-12 13:25:49,297 - django.server - INFO - "GET /users/logout/ HTTP/1.1" 302 0
+2026-05-12 13:25:49,302 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 13:25:49,305 - django.server - INFO - "GET / HTTP/1.1" 200 19800
+2026-05-12 13:25:50,401 - django.server - INFO - "GET /users/login/ HTTP/1.1" 200 17829
+2026-05-12 13:26:15,162 - users.views - WARNING -  НЕУДАЧНЫЙ ВХОД: попытка входа с email testova@gmial.com
+2026-05-12 13:26:15,165 - django.server - INFO - "POST /users/login/ HTTP/1.1" 200 18236
+2026-05-12 13:26:23,692 - django.server - INFO - "GET /admin/ HTTP/1.1" 302 0
+2026-05-12 13:26:23,706 - django.server - INFO - "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4259
+2026-05-12 13:26:29,721 - django.server - INFO - "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2026-05-12 13:26:29,758 - django.server - INFO - "GET /admin/ HTTP/1.1" 200 14504
+2026-05-12 13:26:31,061 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 16787
+2026-05-12 13:26:31,125 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:26:35,199 - django.server - INFO - "POST /admin/logout/ HTTP/1.1" 302 0
+2026-05-12 13:26:35,208 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 13:26:35,211 - django.server - INFO - "GET / HTTP/1.1" 200 19800
+2026-05-12 13:26:36,558 - django.server - INFO - "GET /users/login/ HTTP/1.1" 200 17829
+2026-05-12 13:26:50,668 - users.views - INFO - ВХОД: Тестова Полина Дмитриевна (testova@gmail.com) вошёл в систему
+2026-05-12 13:26:50,675 - django.server - INFO - "POST /users/login/ HTTP/1.1" 302 0
+2026-05-12 13:26:50,690 - main.views - INFO - Пользователь Тестова Полина Дмитриевна открыл главную страницу
+2026-05-12 13:26:50,693 - django.server - INFO - "GET / HTTP/1.1" 200 20507
+2026-05-12 13:27:01,264 - trainers.views - INFO -  ПАНЕЛЬ ТРЕНЕРА: Тестова Полина Дмитриевна открыл панель управления. Групповых: 0, Персональных: 0
+2026-05-12 13:27:01,272 - django.server - INFO - "GET /trainers/dashboard/ HTTP/1.1" 200 18581
+2026-05-12 13:27:03,224 - users.views - INFO -  ВЫХОД: Тестова Полина Дмитриевна вышел из системы
+2026-05-12 13:27:03,244 - django.server - INFO - "GET /users/logout/ HTTP/1.1" 302 0
+2026-05-12 13:27:03,250 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 13:27:03,252 - django.server - INFO - "GET / HTTP/1.1" 200 19800
+2026-05-12 13:27:08,056 - django.server - INFO - "GET /admin/ HTTP/1.1" 302 0
+2026-05-12 13:27:08,065 - django.server - INFO - "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4259
+2026-05-12 13:27:12,067 - django.server - INFO - "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2026-05-12 13:27:12,102 - django.server - INFO - "GET /admin/ HTTP/1.1" 200 14504
+2026-05-12 13:27:19,911 - django.server - INFO - "GET /admin/users/user/add/ HTTP/1.1" 200 16409
+2026-05-12 13:27:19,978 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:28:19,426 - django.server - INFO - "POST /admin/users/user/add/ HTTP/1.1" 302 0
+2026-05-12 13:28:19,456 - django.server - INFO - "GET /admin/users/user/24/change/ HTTP/1.1" 200 15652
+2026-05-12 13:28:19,510 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:28:21,961 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 13683
+2026-05-12 13:28:22,004 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:28:23,156 - django.server - INFO - "GET /admin/main/trainerbio/add/ HTTP/1.1" 200 17661
+2026-05-12 13:28:23,215 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:29:38,447 - django.server - INFO - "POST /admin/main/trainerbio/add/ HTTP/1.1" 302 0
+2026-05-12 13:29:38,485 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 14585
+2026-05-12 13:29:38,521 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:29:41,141 - django.server - INFO - "GET /admin/users/user/add/ HTTP/1.1" 200 16409
+2026-05-12 13:29:41,194 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:30:21,613 - django.server - INFO - "POST /admin/users/user/add/ HTTP/1.1" 302 0
+2026-05-12 13:30:21,643 - django.server - INFO - "GET /admin/users/user/25/change/ HTTP/1.1" 200 15610
+2026-05-12 13:30:21,698 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:30:24,174 - django.server - INFO - "GET /admin/main/trainerbio/add/ HTTP/1.1" 200 17743
+2026-05-12 13:30:24,228 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:31:48,047 - django.server - INFO - "POST /admin/main/trainerbio/add/ HTTP/1.1" 302 0
+2026-05-12 13:31:48,083 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 15145
+2026-05-12 13:31:48,120 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:31:50,569 - django.server - INFO - "GET /admin/users/user/add/ HTTP/1.1" 200 16409
+2026-05-12 13:31:50,625 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:32:49,556 - django.server - INFO - "POST /admin/users/user/add/ HTTP/1.1" 302 0
+2026-05-12 13:32:49,586 - django.server - INFO - "GET /admin/users/user/26/change/ HTTP/1.1" 200 15599
+2026-05-12 13:32:49,636 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:32:51,126 - django.server - INFO - "GET /admin/main/promotion/add/ HTTP/1.1" 200 14881
+2026-05-12 13:32:51,174 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:32:52,133 - django.server - INFO - "GET /admin/main/trainerbio/add/ HTTP/1.1" 200 17823
+2026-05-12 13:32:52,187 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:33:57,892 - django.server - INFO - "POST /admin/main/trainerbio/add/ HTTP/1.1" 302 0
+2026-05-12 13:33:57,924 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 15708
+2026-05-12 13:33:57,959 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:34:04,208 - django.server - INFO - "GET /admin/users/user/add/ HTTP/1.1" 200 16409
+2026-05-12 13:34:04,262 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:35:05,509 - django.server - INFO - "POST /admin/users/user/add/ HTTP/1.1" 302 0
+2026-05-12 13:35:05,536 - django.server - INFO - "GET /admin/users/user/27/change/ HTTP/1.1" 200 15597
+2026-05-12 13:35:05,587 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:35:08,258 - django.server - INFO - "GET /admin/main/trainerbio/add/ HTTP/1.1" 200 17903
+2026-05-12 13:35:08,309 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:36:23,274 - django.server - INFO - "POST /admin/main/trainerbio/add/ HTTP/1.1" 302 0
+2026-05-12 13:36:23,307 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16286
+2026-05-12 13:36:23,341 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:36:24,530 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 13:36:24,533 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 13:36:27,395 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 13:36:27,402 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 20900
+2026-05-12 13:36:27,433 - django.server - INFO - "GET /media/trainers/3eIlAioYJmKMEA080XfEujr1KblIjQ-Z.jpg HTTP/1.1" 304 0
+2026-05-12 13:36:27,442 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 200 89787
+2026-05-12 13:36:27,443 - django.server - INFO - "GET /media/trainers/IMG_0210.jpg HTTP/1.1" 200 146032
+2026-05-12 13:36:27,444 - django.server - INFO - "GET /media/trainers/_.jpg HTTP/1.1" 200 97092
+2026-05-12 13:36:27,455 - django.server - INFO - "GET /media/trainers/61482d186ec2bb1a4a52a597_65d7443cb25745.17954039.jpg HTTP/1.1" 200 1070319
+2026-05-12 13:36:39,648 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 15974
+2026-05-12 13:36:43,535 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 19406
+2026-05-12 13:36:43,584 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:36:45,562 - django.server - INFO - "GET /admin/users/user/add/ HTTP/1.1" 200 16409
+2026-05-12 13:36:45,618 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:38:02,858 - django.server - INFO - "POST /admin/users/user/add/ HTTP/1.1" 302 0
+2026-05-12 13:38:02,902 - django.server - INFO - "GET /admin/users/user/28/change/ HTTP/1.1" 200 15569
+2026-05-12 13:38:02,974 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:38:04,913 - django.server - INFO - "GET /admin/main/trainerbio/add/ HTTP/1.1" 200 17977
+2026-05-12 13:38:04,963 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:39:07,448 - django.server - INFO - "POST /admin/main/trainerbio/add/ HTTP/1.1" 302 0
+2026-05-12 13:39:07,475 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16846
+2026-05-12 13:39:07,508 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:39:09,955 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 13:39:09,958 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 13:39:11,055 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 13:39:11,062 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 21673
+2026-05-12 13:39:11,108 - django.server - INFO - "GET /media/trainers/IMG_0210.jpg HTTP/1.1" 304 0
+2026-05-12 13:39:11,113 - django.server - INFO - "GET /media/trainers/61482d186ec2bb1a4a52a597_65d7443cb25745.17954039.jpg HTTP/1.1" 304 0
+2026-05-12 13:39:11,114 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 304 0
+2026-05-12 13:39:11,115 - django.server - INFO - "GET /media/trainers/_.jpg HTTP/1.1" 304 0
+2026-05-12 13:39:11,115 - django.server - INFO - "GET /media/trainers/3eIlAioYJmKMEA080XfEujr1KblIjQ-Z.jpg HTTP/1.1" 304 0
+2026-05-12 13:39:11,133 - django.server - INFO - "GET /media/trainers/IMG_6535.jpg HTTP/1.1" 200 214611
+2026-05-12 13:39:14,681 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16540
+2026-05-12 13:39:15,764 - django.server - INFO - "GET /admin/main/trainerbio/28/change/ HTTP/1.1" 200 23227
+2026-05-12 13:39:15,812 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:39:32,972 - django.server - INFO - "POST /admin/main/trainerbio/28/change/ HTTP/1.1" 200 23648
+2026-05-12 13:39:33,018 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:39:40,656 - django.server - INFO - "POST /admin/main/trainerbio/28/change/ HTTP/1.1" 302 0
+2026-05-12 13:39:40,700 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16848
+2026-05-12 13:39:40,761 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:39:42,426 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 13:39:42,429 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 13:39:43,306 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 13:39:43,312 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 21673
+2026-05-12 13:39:43,354 - django.server - INFO - "GET /media/trainers/_.jpg HTTP/1.1" 304 0
+2026-05-12 13:39:43,355 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 304 0
+2026-05-12 13:39:43,355 - django.server - INFO - "GET /media/trainers/IMG_6535.jpg HTTP/1.1" 304 0
+2026-05-12 13:39:48,389 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16540
+2026-05-12 13:39:49,918 - django.server - INFO - "GET /admin/main/trainerbio/28/change/ HTTP/1.1" 200 23227
+2026-05-12 13:39:49,965 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:39:52,968 - django.server - INFO - "POST /admin/main/trainerbio/28/change/ HTTP/1.1" 302 0
+2026-05-12 13:39:52,999 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16848
+2026-05-12 13:39:53,044 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:39:54,242 - django.server - INFO - "GET /admin/main/trainerbio/28/change/ HTTP/1.1" 200 22922
+2026-05-12 13:39:54,282 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:40:01,539 - django.server - INFO - "POST /admin/main/trainerbio/28/change/ HTTP/1.1" 302 0
+2026-05-12 13:40:01,582 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16848
+2026-05-12 13:40:01,643 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:40:03,944 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 13:40:03,947 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 13:40:04,789 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 13:40:04,795 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 21714
+2026-05-12 13:40:04,841 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 304 0
+2026-05-12 13:40:04,841 - django.server - INFO - "GET /media/trainers/IMG_0210.jpg HTTP/1.1" 304 0
+2026-05-12 13:40:04,846 - django.server - INFO - "GET /media/trainers/1000_F_250136584_eoJ4kBcMmpDApwoJneqsYju5milwV7Az.jpg HTTP/1.1" 200 271058
+2026-05-12 13:40:17,896 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 16540
+2026-05-12 13:40:19,942 - django.server - INFO - "GET /admin/main/workout/add/ HTTP/1.1" 200 19188
+2026-05-12 13:40:19,987 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:40:30,969 - django.server - INFO - "GET /admin/users/user/add/ HTTP/1.1" 200 16409
+2026-05-12 13:40:31,023 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:41:24,153 - django.server - INFO - "POST /admin/users/user/add/ HTTP/1.1" 302 0
+2026-05-12 13:41:24,187 - django.server - INFO - "GET /admin/users/user/29/change/ HTTP/1.1" 200 15610
+2026-05-12 13:41:24,242 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:41:25,724 - django.server - INFO - "GET /admin/main/trainerbio/add/ HTTP/1.1" 200 18059
+2026-05-12 13:41:25,773 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:43:54,481 - django.server - INFO - "POST /admin/main/trainerbio/add/ HTTP/1.1" 302 0
+2026-05-12 13:43:54,510 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 17470
+2026-05-12 13:43:54,546 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:43:55,973 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 13:43:55,976 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 13:43:56,578 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 13:43:56,585 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 22577
+2026-05-12 13:43:56,622 - django.server - INFO - "GET /media/trainers/3eIlAioYJmKMEA080XfEujr1KblIjQ-Z.jpg HTTP/1.1" 304 0
+2026-05-12 13:43:56,633 - django.server - INFO - "GET /media/trainers/_.jpg HTTP/1.1" 304 0
+2026-05-12 13:43:56,636 - django.server - INFO - "GET /media/trainers/1000_F_250136584_eoJ4kBcMmpDApwoJneqsYju5milwV7Az.jpg HTTP/1.1" 304 0
+2026-05-12 13:43:56,637 - django.server - INFO - "GET /media/trainers/61482d186ec2bb1a4a52a597_65d7443cb25745.17954039.jpg HTTP/1.1" 304 0
+2026-05-12 13:43:56,638 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 304 0
+2026-05-12 13:43:56,638 - django.server - INFO - "GET /media/trainers/IMG_0210.jpg HTTP/1.1" 304 0
+2026-05-12 13:43:56,650 - django.server - INFO - "GET /media/trainers/653263d9a2f5eeff1e05b716_65326405c18de6.68053234.jpg HTTP/1.1" 200 213119
+2026-05-12 13:44:00,326 - main.views - INFO - Пользователь Администратор просматривает профиль тренера: Солодова Виктория Олеговна
+2026-05-12 13:44:00,329 - django.server - INFO - "GET /trainers/29/ HTTP/1.1" 200 21639
+2026-05-12 13:44:00,371 - django.server - INFO - "GET /media/trainers/653263d9a2f5eeff1e05b716_65326405c18de6.68053234.jpg HTTP/1.1" 304 0
+2026-05-12 13:44:03,221 - main.views - INFO - Пользователь Администратор просматривает профиль тренера: Федотов Павел Павлович
+2026-05-12 13:44:03,223 - django.server - INFO - "GET /trainers/28/ HTTP/1.1" 200 22284
+2026-05-12 13:44:05,024 - main.views - INFO - Пользователь Администратор просматривает профиль тренера: Серик Алена Александровна
+2026-05-12 13:44:05,027 - django.server - INFO - "GET /trainers/27/ HTTP/1.1" 200 22153
+2026-05-12 13:44:06,745 - main.views - INFO - Пользователь Администратор просматривает профиль тренера: Макаров Евгений Сергеевич
+2026-05-12 13:44:06,750 - django.server - INFO - "GET /trainers/26/ HTTP/1.1" 200 22380
+2026-05-12 13:44:09,819 - main.views - INFO - Пользователь Администратор просматривает профиль тренера: Солодова Виктория Олеговна
+2026-05-12 13:44:09,823 - django.server - INFO - "GET /trainers/29/ HTTP/1.1" 200 21639
+2026-05-12 13:44:09,860 - django.server - INFO - "GET /media/trainers/653263d9a2f5eeff1e05b716_65326405c18de6.68053234.jpg HTTP/1.1" 304 0
+2026-05-12 13:44:56,350 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 13:44:56,362 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 22668
+2026-05-12 13:44:56,409 - django.server - INFO - "GET /media/trainers/_.jpg HTTP/1.1" 304 0
+2026-05-12 13:44:56,412 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 304 0
+2026-05-12 13:44:56,413 - django.server - INFO - "GET /media/trainers/653263d9a2f5eeff1e05b716_65326405c18de6.68053234.jpg HTTP/1.1" 304 0
+2026-05-12 13:44:56,413 - django.server - INFO - "GET /media/trainers/1000_F_250136584_eoJ4kBcMmpDApwoJneqsYju5milwV7Az.jpg HTTP/1.1" 304 0
+2026-05-12 13:45:08,249 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 17156
+2026-05-12 13:45:10,361 - django.server - INFO - "GET /admin/users/user/add/ HTTP/1.1" 200 16409
+2026-05-12 13:45:10,410 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:47:44,845 - django.server - INFO - "POST /admin/users/user/add/ HTTP/1.1" 302 0
+2026-05-12 13:47:44,880 - django.server - INFO - "GET /admin/users/user/30/change/ HTTP/1.1" 200 15619
+2026-05-12 13:47:44,931 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:47:46,330 - django.server - INFO - "GET /admin/main/trainerbio/add/ HTTP/1.1" 200 18143
+2026-05-12 13:47:46,391 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:49:25,383 - django.server - INFO - "POST /admin/main/trainerbio/add/ HTTP/1.1" 302 0
+2026-05-12 13:49:25,424 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 18058
+2026-05-12 13:49:25,460 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:49:26,963 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 13:49:26,967 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 13:49:29,730 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 13:49:29,737 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 23504
+2026-05-12 13:49:29,780 - django.server - INFO - "GET /media/trainers/3eIlAioYJmKMEA080XfEujr1KblIjQ-Z.jpg HTTP/1.1" 304 0
+2026-05-12 13:49:29,780 - django.server - INFO - "GET /media/trainers/61482d186ec2bb1a4a52a597_65d7443cb25745.17954039.jpg HTTP/1.1" 304 0
+2026-05-12 13:49:29,789 - django.server - INFO - "GET /media/trainers/IMG_0210.jpg HTTP/1.1" 304 0
+2026-05-12 13:49:29,790 - django.server - INFO - "GET /media/trainers/_.jpg HTTP/1.1" 304 0
+2026-05-12 13:49:29,797 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 304 0
+2026-05-12 13:49:29,797 - django.server - INFO - "GET /media/trainers/653263d9a2f5eeff1e05b716_65326405c18de6.68053234.jpg HTTP/1.1" 304 0
+2026-05-12 13:49:29,798 - django.server - INFO - "GET /media/trainers/1000_F_250136584_eoJ4kBcMmpDApwoJneqsYju5milwV7Az.jpg HTTP/1.1" 304 0
+2026-05-12 13:49:29,800 - django.server - INFO - "GET /media/trainers/584e65e8f5ebb1c9778b456d_587736d7b0b28.jpg HTTP/1.1" 200 68404
+2026-05-12 13:49:34,811 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 17742
+2026-05-12 13:49:36,991 - django.server - INFO - "GET /admin/users/user/add/ HTTP/1.1" 200 16409
+2026-05-12 13:49:37,046 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:51:00,457 - django.server - INFO - "POST /admin/users/user/add/ HTTP/1.1" 302 0
+2026-05-12 13:51:00,497 - django.server - INFO - "GET /admin/users/user/31/change/ HTTP/1.1" 200 15598
+2026-05-12 13:51:00,542 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:51:02,198 - django.server - INFO - "GET /admin/main/trainerbio/add/ HTTP/1.1" 200 18223
+2026-05-12 13:51:02,244 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:52:43,874 - django.server - INFO - "POST /admin/main/trainerbio/add/ HTTP/1.1" 302 0
+2026-05-12 13:52:43,925 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 18672
+2026-05-12 13:52:43,961 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:52:45,676 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 13:52:45,679 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 13:52:46,407 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 13:52:46,414 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 24366
+2026-05-12 13:52:46,460 - django.server - INFO - "GET /media/trainers/3eIlAioYJmKMEA080XfEujr1KblIjQ-Z.jpg HTTP/1.1" 304 0
+2026-05-12 13:52:46,460 - django.server - INFO - "GET /media/trainers/61482d186ec2bb1a4a52a597_65d7443cb25745.17954039.jpg HTTP/1.1" 304 0
+2026-05-12 13:52:46,495 - django.server - INFO - "GET /media/trainers/584e65e8f5ebb1c9778b456d_587736d7b0b28.jpg HTTP/1.1" 304 0
+2026-05-12 13:52:46,496 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 304 0
+2026-05-12 13:52:46,496 - django.server - INFO - "GET /media/trainers/_.jpg HTTP/1.1" 304 0
+2026-05-12 13:52:46,497 - django.server - INFO - "GET /media/trainers/IMG_0210.jpg HTTP/1.1" 304 0
+2026-05-12 13:52:46,498 - django.server - INFO - "GET /media/trainers/653263d9a2f5eeff1e05b716_65326405c18de6.68053234.jpg HTTP/1.1" 304 0
+2026-05-12 13:52:46,498 - django.server - INFO - "GET /media/trainers/1000_F_250136584_eoJ4kBcMmpDApwoJneqsYju5milwV7Az.jpg HTTP/1.1" 304 0
+2026-05-12 13:52:46,570 - django.server - INFO - "GET /media/trainers/4e72dff9022c89181495b0011bf2a6c1.jpg HTTP/1.1" 200 2091509
+2026-05-12 13:52:55,272 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 18360
+2026-05-12 13:52:57,225 - django.server - INFO - "GET /admin/users/user/add/ HTTP/1.1" 200 16409
+2026-05-12 13:52:57,281 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:54:07,176 - django.server - INFO - "POST /admin/users/user/add/ HTTP/1.1" 302 0
+2026-05-12 13:54:07,202 - django.server - INFO - "GET /admin/users/user/32/change/ HTTP/1.1" 200 15660
+2026-05-12 13:54:07,257 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:54:08,817 - django.server - INFO - "GET /admin/main/trainerbio/add/ HTTP/1.1" 200 18315
+2026-05-12 13:54:08,869 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:55:10,504 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 22680
+2026-05-12 13:55:10,729 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:56:48,836 - django.server - INFO - "POST /admin/main/trainerbio/add/ HTTP/1.1" 302 0
+2026-05-12 13:56:48,874 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 19311
+2026-05-12 13:56:48,908 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 13:56:50,058 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 13:56:50,061 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 13:56:50,829 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 13:56:50,837 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 25240
+2026-05-12 13:56:50,882 - django.server - INFO - "GET /media/trainers/1000_F_250136584_eoJ4kBcMmpDApwoJneqsYju5milwV7Az.jpg HTTP/1.1" 304 0
+2026-05-12 13:56:50,883 - django.server - INFO - "GET /media/trainers/3eIlAioYJmKMEA080XfEujr1KblIjQ-Z.jpg HTTP/1.1" 304 0
+2026-05-12 13:56:50,884 - django.server - INFO - "GET /media/trainers/61482d186ec2bb1a4a52a597_65d7443cb25745.17954039.jpg HTTP/1.1" 304 0
+2026-05-12 13:56:50,885 - django.server - INFO - "GET /media/trainers/IMG_0210.jpg HTTP/1.1" 304 0
+2026-05-12 13:56:50,887 - django.server - INFO - "GET /media/trainers/_.jpg HTTP/1.1" 304 0
+2026-05-12 13:56:50,889 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 304 0
+2026-05-12 13:56:50,890 - django.server - INFO - "GET /media/trainers/653263d9a2f5eeff1e05b716_65326405c18de6.68053234.jpg HTTP/1.1" 304 0
+2026-05-12 13:56:50,893 - django.server - INFO - "GET /media/trainers/584e65e8f5ebb1c9778b456d_587736d7b0b28.jpg HTTP/1.1" 304 0
+2026-05-12 13:56:50,896 - django.server - INFO - "GET /media/trainers/4e72dff9022c89181495b0011bf2a6c1.jpg HTTP/1.1" 304 0
+2026-05-12 13:56:50,917 - django.server - INFO - "GET /media/trainers/55d4dab840c0885e238b4c39_59ef39e9f2e66.jpg HTTP/1.1" 200 1055207
+2026-05-12 13:56:59,750 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 13:56:59,753 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 14:03:03,440 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 14:03:03,448 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 25240
+2026-05-12 14:03:03,488 - django.server - INFO - "GET /media/trainers/3eIlAioYJmKMEA080XfEujr1KblIjQ-Z.jpg HTTP/1.1" 304 0
+2026-05-12 14:03:03,493 - django.server - INFO - "GET /media/trainers/61482d186ec2bb1a4a52a597_65d7443cb25745.17954039.jpg HTTP/1.1" 304 0
+2026-05-12 14:03:03,537 - django.server - INFO - "GET /media/trainers/_.jpg HTTP/1.1" 304 0
+2026-05-12 14:03:03,537 - django.server - INFO - "GET /media/trainers/IMG_0210.jpg HTTP/1.1" 304 0
+2026-05-12 14:03:03,547 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 304 0
+2026-05-12 14:03:03,548 - django.server - INFO - "GET /media/trainers/4e72dff9022c89181495b0011bf2a6c1.jpg HTTP/1.1" 304 0
+2026-05-12 14:03:03,553 - django.server - INFO - "GET /media/trainers/55d4dab840c0885e238b4c39_59ef39e9f2e66.jpg HTTP/1.1" 304 0
+2026-05-12 14:03:03,555 - django.server - INFO - "GET /media/trainers/1000_F_250136584_eoJ4kBcMmpDApwoJneqsYju5milwV7Az.jpg HTTP/1.1" 304 0
+2026-05-12 14:03:03,556 - django.server - INFO - "GET /media/trainers/653263d9a2f5eeff1e05b716_65326405c18de6.68053234.jpg HTTP/1.1" 304 0
+2026-05-12 14:03:03,557 - django.server - INFO - "GET /media/trainers/584e65e8f5ebb1c9778b456d_587736d7b0b28.jpg HTTP/1.1" 304 0
+2026-05-12 14:03:06,477 - main.views - INFO - Пользователь Администратор просматривает профиль тренера: Тестова Полина Дмитриевна
+2026-05-12 14:03:06,482 - django.server - INFO - "GET /trainers/23/ HTTP/1.1" 200 22121
+2026-05-12 14:04:37,100 - django.server - INFO - "GET /admin/main/trainerbio/ HTTP/1.1" 200 18987
+2026-05-12 14:04:41,287 - django.server - INFO - "GET /admin/main/tariff/add/ HTTP/1.1" 200 19130
+2026-05-12 14:04:41,342 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:05:05,018 - django.server - INFO - "POST /admin/main/tariff/add/ HTTP/1.1" 302 0
+2026-05-12 14:05:05,058 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 13765
+2026-05-12 14:05:05,108 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:05:06,918 - django.server - INFO - "GET /admin/main/tariff/add/ HTTP/1.1" 200 19130
+2026-05-12 14:05:06,956 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:05:32,360 - django.server - INFO - "POST /admin/main/tariff/add/ HTTP/1.1" 302 0
+2026-05-12 14:05:32,396 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 14242
+2026-05-12 14:05:32,451 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:05:33,739 - django.server - INFO - "GET /admin/main/tariff/add/ HTTP/1.1" 200 19130
+2026-05-12 14:05:33,797 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:06:10,948 - django.server - INFO - "POST /admin/main/tariff/add/ HTTP/1.1" 302 0
+2026-05-12 14:06:10,982 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 14723
+2026-05-12 14:06:11,031 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:06:14,762 - django.server - INFO - "GET /admin/main/tariff/add/ HTTP/1.1" 200 19130
+2026-05-12 14:06:14,815 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:06:38,117 - django.server - INFO - "POST /admin/main/tariff/add/ HTTP/1.1" 200 19482
+2026-05-12 14:06:38,155 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:06:49,976 - django.server - INFO - "POST /admin/main/tariff/add/ HTTP/1.1" 302 0
+2026-05-12 14:06:50,016 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 15206
+2026-05-12 14:06:50,074 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:06:55,900 - django.server - INFO - "GET /admin/main/tariff/add/ HTTP/1.1" 200 19130
+2026-05-12 14:06:55,946 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:07:22,552 - django.server - INFO - "POST /admin/main/tariff/add/ HTTP/1.1" 302 0
+2026-05-12 14:07:22,595 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 15790
+2026-05-12 14:07:22,635 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:07:23,758 - django.server - INFO - "GET /admin/main/tariff/add/ HTTP/1.1" 200 19130
+2026-05-12 14:07:23,806 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:07:37,191 - django.server - INFO - "POST /admin/main/tariff/add/ HTTP/1.1" 302 0
+2026-05-12 14:07:37,240 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 16345
+2026-05-12 14:07:37,297 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:07:46,828 - django.server - INFO - "GET /admin/main/promotion/add/ HTTP/1.1" 200 14881
+2026-05-12 14:07:46,879 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:07:56,264 - django.server - INFO - "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 304 0
+2026-05-12 14:08:11,952 - django.server - INFO - "POST /admin/main/promotion/add/ HTTP/1.1" 302 0
+2026-05-12 14:08:11,989 - django.server - INFO - "GET /admin/main/promotion/ HTTP/1.1" 200 13914
+2026-05-12 14:08:12,039 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:08:14,707 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 16088
+2026-05-12 14:08:14,759 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:08:16,055 - django.server - INFO - "GET /admin/main/tariff/11/change/ HTTP/1.1" 200 19542
+2026-05-12 14:08:16,106 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:08:18,591 - django.server - INFO - "POST /admin/main/tariff/11/change/ HTTP/1.1" 302 0
+2026-05-12 14:08:18,631 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 16332
+2026-05-12 14:08:18,684 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:08:20,599 - django.server - INFO - "GET /admin/main/tariff/10/change/ HTTP/1.1" 200 19538
+2026-05-12 14:08:20,657 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:08:22,436 - django.server - INFO - "POST /admin/main/tariff/10/change/ HTTP/1.1" 302 0
+2026-05-12 14:08:22,490 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 16353
+2026-05-12 14:08:22,539 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:08:24,706 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 14:08:24,710 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 14:08:25,479 - main.views - INFO - Пользователь Администратор просматривает список тарифов
+2026-05-12 14:08:25,533 - django.server - INFO - "GET /tariffs/ HTTP/1.1" 200 32447
+2026-05-12 14:08:59,524 - django.server - INFO - "GET /admin/main/tariff/ HTTP/1.1" 200 16132
+2026-05-12 14:09:03,992 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 11460
+2026-05-12 14:09:04,062 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:09:06,817 - django.server - INFO - "GET /admin/main/workout/add/ HTTP/1.1" 200 19526
+2026-05-12 14:09:06,863 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:11:19,038 - django.server - INFO - "POST /admin/main/workout/add/ HTTP/1.1" 302 0
+2026-05-12 14:11:19,073 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 14134
+2026-05-12 14:11:19,111 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:11:25,566 - django.server - INFO - "GET /admin/main/workout/add/ HTTP/1.1" 200 19526
+2026-05-12 14:11:25,613 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:11:30,890 - django.server - INFO - "POST /admin/main/workout/add/ HTTP/1.1" 200 20605
+2026-05-12 14:11:30,959 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:14:52,504 - django.server - INFO - "POST /admin/main/workout/add/ HTTP/1.1" 302 0
+2026-05-12 14:14:52,538 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 14746
+2026-05-12 14:14:52,583 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:14:53,779 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 14:14:53,782 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 14:14:58,743 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 14505
+2026-05-12 14:15:00,373 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 11462
+2026-05-12 14:15:00,428 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:15:02,003 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15809
+2026-05-12 14:15:02,064 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:15:02,128 - django.server - INFO - "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+2026-05-12 14:15:15,971 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:15:16,005 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 14090
+2026-05-12 14:15:16,058 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:15:17,722 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15809
+2026-05-12 14:15:17,767 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:15:25,252 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:15:25,280 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 14660
+2026-05-12 14:15:25,330 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:15:26,941 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15809
+2026-05-12 14:15:26,996 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:15:45,528 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:15:45,561 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 15254
+2026-05-12 14:15:45,603 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:15:46,369 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15809
+2026-05-12 14:15:46,415 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:15:59,845 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 200 16123
+2026-05-12 14:15:59,899 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:16:02,580 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:16:02,615 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 15841
+2026-05-12 14:16:02,671 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:16:04,083 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 14:16:04,086 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 14:16:04,840 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 42234
+2026-05-12 14:16:21,191 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 15577
+2026-05-12 14:22:43,802 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:22:44,600 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:22:46,917 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 14:22:46,933 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 14:22:48,013 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 59244
+2026-05-12 14:22:50,454 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 59244
+2026-05-12 14:22:51,040 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 59244
+2026-05-12 14:22:51,215 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 59244
+2026-05-12 14:22:52,839 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 15577
+2026-05-12 14:22:55,730 - django.server - INFO - "GET /admin/main/schedule/17/change/ HTTP/1.1" 200 16151
+2026-05-12 14:22:55,798 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:22:56,920 - django.server - INFO - "POST /admin/main/schedule/17/change/ HTTP/1.1" 302 0
+2026-05-12 14:22:56,954 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 15835
+2026-05-12 14:22:57,006 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:22:58,392 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 14:22:58,395 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 14:22:59,151 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 59244
+2026-05-12 14:23:02,524 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 15577
+2026-05-12 14:23:05,544 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15809
+2026-05-12 14:23:05,603 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:23:14,311 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:23:14,349 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 16403
+2026-05-12 14:23:14,395 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:23:15,674 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 14:23:15,677 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 14:23:16,823 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 64914
+2026-05-12 14:23:19,076 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 16147
+2026-05-12 14:25:02,377 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 14:25:02,382 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 14:25:03,303 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 65285
+2026-05-12 14:25:05,931 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 65285
+2026-05-12 14:25:07,266 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 16147
+2026-05-12 14:25:12,269 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15809
+2026-05-12 14:25:12,331 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:25:19,513 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:25:19,550 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 16974
+2026-05-12 14:25:19,599 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:25:25,277 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 14:25:25,280 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 14:25:26,438 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 72130
+2026-05-12 14:25:31,291 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: ХАТХА-ЙОГА (2026-05-12 18:00:00)
+2026-05-12 14:25:31,299 - django.server - INFO - "GET /schedule/22/book/ HTTP/1.1" 200 18092
+2026-05-12 14:25:33,085 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: ХАТХА-ЙОГА (2026-05-12 18:00:00)
+2026-05-12 14:25:33,111 - main.views - INFO -  НОВАЯ ЗАПИСЬ: Пользователь Администратор записался на тренировку: ХАТХА-ЙОГА (2026-05-12 18:00:00)
+2026-05-12 14:25:33,113 - main.views - INFO -  СТАТИСТИКА: На тренировке "ХАТХА-ЙОГА" записано 1/35 человек
+2026-05-12 14:25:33,116 - django.server - INFO - "POST /schedule/22/book/ HTTP/1.1" 302 0
+2026-05-12 14:25:33,196 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 72596
+2026-05-12 14:25:56,568 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:25:57,192 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:25:57,516 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 48797
+2026-05-12 14:26:05,687 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 16718
+2026-05-12 14:26:16,954 - django.server - INFO - "POST /admin/main/schedule/ HTTP/1.1" 200 12025
+2026-05-12 14:26:18,135 - django.server - INFO - "POST /admin/main/schedule/ HTTP/1.1" 302 0
+2026-05-12 14:26:18,160 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 14581
+2026-05-12 14:26:18,217 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:26:24,706 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15809
+2026-05-12 14:26:24,765 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:26:36,234 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:26:36,257 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 15273
+2026-05-12 14:26:36,298 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:26:39,764 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15809
+2026-05-12 14:26:39,814 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:26:47,781 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:26:47,813 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 15836
+2026-05-12 14:26:47,868 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:26:48,999 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 14:26:49,003 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 14:26:49,940 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 61932
+2026-05-12 14:26:59,515 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 15580
+2026-05-12 14:27:04,617 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 14505
+2026-05-12 14:27:04,667 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:27:28,602 - django.server - INFO - "GET /admin/main/workout/add/ HTTP/1.1" 200 19526
+2026-05-12 14:27:28,668 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:28:06,227 - django.server - INFO - "GET /admin/users/user/ HTTP/1.1" 200 22680
+2026-05-12 14:28:06,442 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:28:11,295 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 14:28:11,298 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 14:28:12,662 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 14:28:12,671 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 25240
+2026-05-12 14:28:12,716 - django.server - INFO - "GET /media/trainers/61482d186ec2bb1a4a52a597_65d7443cb25745.17954039.jpg HTTP/1.1" 304 0
+2026-05-12 14:28:12,717 - django.server - INFO - "GET /media/trainers/3eIlAioYJmKMEA080XfEujr1KblIjQ-Z.jpg HTTP/1.1" 304 0
+2026-05-12 14:28:12,728 - django.server - INFO - "GET /media/trainers/IMG_0210.jpg HTTP/1.1" 304 0
+2026-05-12 14:28:12,731 - django.server - INFO - "GET /media/trainers/_.jpg HTTP/1.1" 304 0
+2026-05-12 14:28:12,732 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 304 0
+2026-05-12 14:28:12,737 - django.server - INFO - "GET /media/trainers/4e72dff9022c89181495b0011bf2a6c1.jpg HTTP/1.1" 304 0
+2026-05-12 14:28:12,737 - django.server - INFO - "GET /media/trainers/653263d9a2f5eeff1e05b716_65326405c18de6.68053234.jpg HTTP/1.1" 304 0
+2026-05-12 14:28:12,738 - django.server - INFO - "GET /media/trainers/1000_F_250136584_eoJ4kBcMmpDApwoJneqsYju5milwV7Az.jpg HTTP/1.1" 304 0
+2026-05-12 14:28:12,738 - django.server - INFO - "GET /media/trainers/584e65e8f5ebb1c9778b456d_587736d7b0b28.jpg HTTP/1.1" 304 0
+2026-05-12 14:28:12,739 - django.server - INFO - "GET /media/trainers/55d4dab840c0885e238b4c39_59ef39e9f2e66.jpg HTTP/1.1" 304 0
+2026-05-12 14:28:56,107 - django.server - INFO - "POST /admin/main/workout/add/ HTTP/1.1" 302 0
+2026-05-12 14:28:56,138 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 15315
+2026-05-12 14:28:56,182 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:28:59,499 - django.server - INFO - "GET /admin/main/workout/add/ HTTP/1.1" 200 19526
+2026-05-12 14:28:59,557 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:30:18,559 - django.server - INFO - "POST /admin/main/workout/add/ HTTP/1.1" 302 0
+2026-05-12 14:30:18,588 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 15878
+2026-05-12 14:30:18,627 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:30:20,489 - django.server - INFO - "GET /admin/main/workout/11/change/ HTTP/1.1" 200 20465
+2026-05-12 14:30:20,543 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:30:24,226 - django.server - INFO - "POST /admin/main/workout/11/change/ HTTP/1.1" 302 0
+2026-05-12 14:30:24,267 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 15884
+2026-05-12 14:30:24,321 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:30:27,326 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 15580
+2026-05-12 14:30:27,388 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:30:29,240 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15910
+2026-05-12 14:30:29,291 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:30:43,147 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:30:43,184 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 16410
+2026-05-12 14:30:43,236 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:30:44,544 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15910
+2026-05-12 14:30:44,606 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:30:53,333 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 67602
+2026-05-12 14:31:06,286 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:31:06,315 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 16984
+2026-05-12 14:31:06,367 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:31:07,493 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15910
+2026-05-12 14:31:07,547 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:31:16,858 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:31:16,901 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 17543
+2026-05-12 14:31:16,947 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:31:17,884 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15910
+2026-05-12 14:31:17,936 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:31:30,215 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:31:30,253 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 18107
+2026-05-12 14:31:30,299 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:31:31,258 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15910
+2026-05-12 14:31:31,300 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:31:42,066 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:31:42,106 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 18671
+2026-05-12 14:31:42,162 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:31:42,988 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15910
+2026-05-12 14:31:43,035 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:31:51,840 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:31:51,876 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 19238
+2026-05-12 14:31:51,928 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:31:54,823 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 100349
+2026-05-12 14:32:07,643 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Плавание (2026-05-11 12:00:00)
+2026-05-12 14:32:07,644 - main.views - WARNING - ОТКАЗАНО: Пользователь Администратор попытался записаться на ПРОШЕДШУЮ тренировку: Плавание (2026-05-11)
+2026-05-12 14:32:07,645 - django.server - INFO - "GET /schedule/27/book/ HTTP/1.1" 302 0
+2026-05-12 14:32:07,749 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 100809
+2026-05-12 14:32:30,018 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 102976
+2026-05-12 14:32:32,149 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 102976
+2026-05-12 14:33:02,790 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:33:03,394 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:33:04,247 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 102976
+2026-05-12 14:33:05,041 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 102976
+2026-05-12 14:33:05,588 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 102976
+2026-05-12 14:33:05,769 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 102976
+2026-05-12 14:33:05,942 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 102976
+2026-05-12 14:33:06,162 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 102976
+2026-05-12 14:33:06,498 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 102976
+2026-05-12 14:33:15,295 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 102976
+2026-05-12 14:33:21,242 - users.views - INFO -  ВЫХОД: Администратор вышел из системы
+2026-05-12 14:33:21,261 - django.server - INFO - "GET /users/logout/ HTTP/1.1" 302 0
+2026-05-12 14:33:21,267 - main.views - INFO - Пользователь Гость открыл главную страницу
+2026-05-12 14:33:21,271 - django.server - INFO - "GET / HTTP/1.1" 200 19800
+2026-05-12 14:33:22,470 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 101547
+2026-05-12 14:33:25,591 - django.server - INFO - "GET /users/login/ HTTP/1.1" 200 17829
+2026-05-12 14:33:34,059 - users.views - INFO - ВХОД: Администратор (admin@gmail.com) вошёл в систему
+2026-05-12 14:33:34,064 - django.server - INFO - "POST /users/login/ HTTP/1.1" 302 0
+2026-05-12 14:33:34,079 - main.views - INFO - Пользователь Администратор открыл главную страницу
+2026-05-12 14:33:34,082 - django.server - INFO - "GET / HTTP/1.1" 200 20230
+2026-05-12 14:33:35,567 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 102976
+2026-05-12 14:34:05,783 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:34:06,313 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:36:02,076 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 80979
+2026-05-12 14:36:02,706 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 80979
+2026-05-12 14:36:03,038 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 80979
+2026-05-12 14:36:03,255 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 80979
+2026-05-12 14:36:03,422 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 80979
+2026-05-12 14:36:03,602 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 80979
+2026-05-12 14:36:03,991 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 80979
+2026-05-12 14:36:04,166 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 80979
+2026-05-12 14:36:04,367 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 80979
+2026-05-12 14:36:04,940 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 80979
+2026-05-12 14:36:05,276 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 80979
+2026-05-12 14:36:05,872 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Плавание (2026-05-11 12:00:00)
+2026-05-12 14:36:05,873 - main.views - WARNING - ОТКАЗАНО: Пользователь Администратор попытался записаться на ПРОШЕДШУЮ тренировку: Плавание (2026-05-11)
+2026-05-12 14:36:05,876 - django.server - INFO - "GET /schedule/27/book/ HTTP/1.1" 302 0
+2026-05-12 14:36:05,984 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 81439
+2026-05-12 14:36:25,871 - django.server - INFO - "GET /admin/main/schedule/27/change/ HTTP/1.1" 200 16243
+2026-05-12 14:36:25,933 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:36:26,728 - django.server - INFO - "POST /admin/main/schedule/27/change/ HTTP/1.1" 302 0
+2026-05-12 14:36:26,816 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 19240
+2026-05-12 14:36:26,862 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:36:29,554 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 80979
+2026-05-12 14:36:29,984 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 80979
+2026-05-12 14:36:33,490 - main.views - INFO - Пользователь Администратор просматривает тренировку: Плавание
+2026-05-12 14:36:33,497 - django.server - INFO - "GET /workouts/12/ HTTP/1.1" 200 18125
+2026-05-12 14:36:33,654 - django.server - INFO - "GET /media/workouts/shutterstock_2608071145.jpg HTTP/1.1" 200 137987
+2026-05-12 14:36:36,936 - main.views - INFO - Пользователь Администратор просматривает тренировку: Плавание
+2026-05-12 14:36:36,940 - django.server - INFO - "GET /workouts/12/ HTTP/1.1" 200 18125
+2026-05-12 14:36:39,743 - main.views - INFO - Пользователь Администратор просматривает тренировку: АКВА ФИТНЕС
+2026-05-12 14:36:39,748 - django.server - INFO - "GET /workouts/11/ HTTP/1.1" 200 18094
+2026-05-12 14:36:39,795 - django.server - INFO - "GET /media/workouts/i_1.webp HTTP/1.1" 200 165128
+2026-05-12 14:36:42,601 - main.views - INFO - Пользователь Администратор просматривает тренировку: Здоровая спина
+2026-05-12 14:36:42,606 - django.server - INFO - "GET /workouts/10/ HTTP/1.1" 200 18209
+2026-05-12 14:36:42,660 - django.server - INFO - "GET /media/workouts/rastyazhka-ot-boli-v-spine_16590891541387782323_Ka2558C.jpg HTTP/1.1" 200 94357
+2026-05-12 14:38:00,612 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 15647
+2026-05-12 14:38:00,666 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:38:07,563 - django.server - INFO - "GET /admin/main/workout/add/ HTTP/1.1" 200 19526
+2026-05-12 14:38:07,626 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:39:09,893 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 14:39:09,903 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 25240
+2026-05-12 14:39:09,953 - django.server - INFO - "GET /media/trainers/3eIlAioYJmKMEA080XfEujr1KblIjQ-Z.jpg HTTP/1.1" 304 0
+2026-05-12 14:39:09,953 - django.server - INFO - "GET /media/trainers/61482d186ec2bb1a4a52a597_65d7443cb25745.17954039.jpg HTTP/1.1" 304 0
+2026-05-12 14:39:09,968 - django.server - INFO - "GET /media/trainers/IMG_0210.jpg HTTP/1.1" 304 0
+2026-05-12 14:39:09,971 - django.server - INFO - "GET /media/trainers/_.jpg HTTP/1.1" 304 0
+2026-05-12 14:39:09,978 - django.server - INFO - "GET /media/trainers/55d4dab840c0885e238b4c39_59ef39e9f2e66.jpg HTTP/1.1" 304 0
+2026-05-12 14:39:09,979 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 304 0
+2026-05-12 14:39:09,983 - django.server - INFO - "GET /media/trainers/4e72dff9022c89181495b0011bf2a6c1.jpg HTTP/1.1" 304 0
+2026-05-12 14:39:09,983 - django.server - INFO - "GET /media/trainers/653263d9a2f5eeff1e05b716_65326405c18de6.68053234.jpg HTTP/1.1" 304 0
+2026-05-12 14:39:09,983 - django.server - INFO - "GET /media/trainers/1000_F_250136584_eoJ4kBcMmpDApwoJneqsYju5milwV7Az.jpg HTTP/1.1" 304 0
+2026-05-12 14:39:09,983 - django.server - INFO - "GET /media/trainers/584e65e8f5ebb1c9778b456d_587736d7b0b28.jpg HTTP/1.1" 304 0
+2026-05-12 14:39:23,544 - django.server - INFO - "POST /admin/main/workout/add/ HTTP/1.1" 302 0
+2026-05-12 14:39:23,582 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 16434
+2026-05-12 14:39:23,634 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:39:27,919 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 18985
+2026-05-12 14:39:27,966 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:39:29,450 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15950
+2026-05-12 14:39:29,501 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:39:43,228 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:39:43,266 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 19779
+2026-05-12 14:39:43,316 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:39:44,653 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15950
+2026-05-12 14:39:44,695 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:39:55,996 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:39:56,037 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 20328
+2026-05-12 14:39:56,089 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:39:58,328 - django.server - INFO - "GET /admin/main/schedule/29/change/ HTTP/1.1" 200 16283
+2026-05-12 14:39:58,384 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:40:00,602 - django.server - INFO - "POST /admin/main/schedule/29/change/ HTTP/1.1" 302 0
+2026-05-12 14:40:00,647 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 20358
+2026-05-12 14:40:00,708 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:40:04,240 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 85991
+2026-05-12 14:41:07,612 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:41:08,270 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:41:09,191 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 107082
+2026-05-12 14:41:11,536 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 107082
+2026-05-12 14:41:23,260 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:41:23,850 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:41:24,241 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 106548
+2026-05-12 14:41:25,310 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 106548
+2026-05-12 14:41:36,839 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 85991
+2026-05-12 14:42:03,718 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:42:04,326 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:42:05,573 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 85991
+2026-05-12 14:42:06,119 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 85991
+2026-05-12 14:42:06,332 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 85991
+2026-05-12 14:42:06,478 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 85991
+2026-05-12 14:42:06,647 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 85991
+2026-05-12 14:42:06,825 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 85991
+2026-05-12 14:42:11,876 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:42:12,432 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:42:12,733 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 85991
+2026-05-12 14:42:19,212 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Плавание (2026-05-11 12:00:00)
+2026-05-12 14:42:19,213 - main.views - WARNING - ОТКАЗАНО: Пользователь Администратор попытался записаться на ПРОШЕДШУЮ тренировку: Плавание (2026-05-11)
+2026-05-12 14:42:19,215 - django.server - INFO - "GET /schedule/27/book/ HTTP/1.1" 302 0
+2026-05-12 14:42:19,331 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 86451
+2026-05-12 14:42:23,564 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Бокс (2026-05-13 14:00:00)
+2026-05-12 14:42:23,573 - django.server - INFO - "GET /schedule/31/book/ HTTP/1.1" 200 18079
+2026-05-12 14:42:26,708 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Бокс (2026-05-13 14:00:00)
+2026-05-12 14:42:26,728 - main.views - INFO -  НОВАЯ ЗАПИСЬ: Пользователь Администратор записался на тренировку: Бокс (2026-05-13 14:00:00)
+2026-05-12 14:42:26,729 - main.views - INFO -  СТАТИСТИКА: На тренировке "Бокс" записано 1/10 человек
+2026-05-12 14:42:26,730 - django.server - INFO - "POST /schedule/31/book/ HTTP/1.1" 302 0
+2026-05-12 14:42:26,829 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 86445
+2026-05-12 14:42:29,197 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Плавание (2026-05-13 12:00:00)
+2026-05-12 14:42:29,203 - django.server - INFO - "GET /schedule/28/book/ HTTP/1.1" 200 18076
+2026-05-12 14:42:29,961 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Плавание (2026-05-13 12:00:00)
+2026-05-12 14:42:29,981 - main.views - INFO -  НОВАЯ ЗАПИСЬ: Пользователь Администратор записался на тренировку: Плавание (2026-05-13 12:00:00)
+2026-05-12 14:42:29,982 - main.views - INFO -  СТАТИСТИКА: На тренировке "Плавание" записано 1/5 человек
+2026-05-12 14:42:29,984 - django.server - INFO - "POST /schedule/28/book/ HTTP/1.1" 302 0
+2026-05-12 14:42:30,086 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 86453
+2026-05-12 14:42:41,656 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: ХАТХА-ЙОГА (2026-05-15 18:00:00)
+2026-05-12 14:42:41,663 - django.server - INFO - "GET /schedule/24/book/ HTTP/1.1" 200 18092
+2026-05-12 14:42:42,275 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: ХАТХА-ЙОГА (2026-05-15 18:00:00)
+2026-05-12 14:42:42,298 - main.views - INFO -  НОВАЯ ЗАПИСЬ: Пользователь Администратор записался на тренировку: ХАТХА-ЙОГА (2026-05-15 18:00:00)
+2026-05-12 14:42:42,298 - main.views - INFO -  СТАТИСТИКА: На тренировке "ХАТХА-ЙОГА" записано 1/35 человек
+2026-05-12 14:42:42,300 - django.server - INFO - "POST /schedule/24/book/ HTTP/1.1" 302 0
+2026-05-12 14:42:42,413 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 86456
+2026-05-12 14:44:17,314 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 16212
+2026-05-12 14:44:17,355 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:44:18,264 - django.server - INFO - "GET /admin/main/workout/add/ HTTP/1.1" 200 19526
+2026-05-12 14:44:18,316 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:44:57,668 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 14:44:57,680 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 25240
+2026-05-12 14:44:57,770 - django.server - INFO - "GET /media/trainers/653263d9a2f5eeff1e05b716_65326405c18de6.68053234.jpg HTTP/1.1" 304 0
+2026-05-12 14:44:57,771 - django.server - INFO - "GET /media/trainers/584e65e8f5ebb1c9778b456d_587736d7b0b28.jpg HTTP/1.1" 304 0
+2026-05-12 14:44:57,776 - django.server - INFO - "GET /media/trainers/55d4dab840c0885e238b4c39_59ef39e9f2e66.jpg HTTP/1.1" 304 0
+2026-05-12 14:44:57,776 - django.server - INFO - "GET /media/trainers/4e72dff9022c89181495b0011bf2a6c1.jpg HTTP/1.1" 304 0
+2026-05-12 14:45:38,948 - django.server - INFO - "POST /admin/main/workout/add/ HTTP/1.1" 302 0
+2026-05-12 14:45:38,996 - django.server - INFO - "GET /admin/main/workout/ HTTP/1.1" 200 16989
+2026-05-12 14:45:39,057 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:45:41,129 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 20092
+2026-05-12 14:45:41,182 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:45:42,579 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15992
+2026-05-12 14:45:42,630 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:45:56,172 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:45:56,225 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 20892
+2026-05-12 14:45:56,281 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:45:59,669 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 90993
+2026-05-12 14:46:06,208 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15992
+2026-05-12 14:46:06,282 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:46:20,165 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:46:20,217 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 21445
+2026-05-12 14:46:20,284 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:46:22,392 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 95996
+2026-05-12 14:48:27,649 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:48:28,361 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:49:36,326 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 123642
+2026-05-12 14:49:37,731 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 123642
+2026-05-12 14:49:42,438 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Плавание (2026-05-11 12:00:00)
+2026-05-12 14:49:42,439 - main.views - WARNING - ОТКАЗАНО: Пользователь Администратор попытался записаться на ПРОШЕДШУЮ тренировку: Плавание (2026-05-11)
+2026-05-12 14:49:42,442 - django.server - INFO - "GET /schedule/27/book/ HTTP/1.1" 302 0
+2026-05-12 14:49:42,548 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 124102
+2026-05-12 14:51:12,728 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 123237
+2026-05-12 14:51:27,829 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:51:28,458 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:51:30,942 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 122916
+2026-05-12 14:51:45,604 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15992
+2026-05-12 14:51:45,681 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:52:10,652 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 14:52:10,707 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 22049
+2026-05-12 14:52:10,761 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 14:52:12,696 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129769
+2026-05-12 14:52:19,536 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Здоровая спина (2026-05-12 11:00:00)
+2026-05-12 14:52:19,537 - main.views - WARNING - ОТКАЗАНО: Пользователь Администратор попытался записаться на ПРОШЕДШУЮ тренировку: Здоровая спина (2026-05-12)
+2026-05-12 14:52:19,539 - django.server - INFO - "GET /schedule/35/book/ HTTP/1.1" 302 0
+2026-05-12 14:52:19,681 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 130229
+2026-05-12 14:53:50,361 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:53:51,007 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:54:42,309 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 131289
+2026-05-12 14:55:11,764 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129769
+2026-05-12 14:55:30,802 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:55:31,464 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:56:09,861 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 125865
+2026-05-12 14:56:56,018 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:56:56,737 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:56:57,981 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129769
+2026-05-12 14:58:45,872 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 14:58:46,477 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 14:59:53,351 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 130660
+2026-05-12 15:00:05,924 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 15:00:06,513 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:00:10,246 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129769
+2026-05-12 15:00:15,890 - main.views - INFO - Пользователь Администратор просматривает тренировку: Плавание
+2026-05-12 15:00:15,901 - django.server - INFO - "GET /workouts/12/ HTTP/1.1" 200 18125
+2026-05-12 15:00:15,965 - django.server - INFO - "GET /media/workouts/shutterstock_2608071145.jpg HTTP/1.1" 304 0
+2026-05-12 15:00:17,744 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Здоровая спина (2026-05-12 11:00:00)
+2026-05-12 15:00:17,744 - main.views - WARNING - ОТКАЗАНО: Пользователь Администратор попытался записаться на ПРОШЕДШУЮ тренировку: Здоровая спина (2026-05-12)
+2026-05-12 15:00:17,746 - django.server - INFO - "GET /schedule/35/book/ HTTP/1.1" 302 0
+2026-05-12 15:00:17,845 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 130229
+2026-05-12 15:00:21,177 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: ХАТХА-ЙОГА (2026-05-12 18:00:00)
+2026-05-12 15:00:21,216 - main.views - WARNING -  Пользователь Администратор уже записан на тренировку: ХАТХА-ЙОГА
+2026-05-12 15:00:21,218 - django.server - INFO - "GET /schedule/22/book/ HTTP/1.1" 302 0
+2026-05-12 15:00:21,328 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 130197
+2026-05-12 15:05:53,359 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 15:05:54,348 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:06:15,186 - main.views - INFO - Пользователь Администратор просматривает список тренеров
+2026-05-12 15:06:15,231 - django.server - INFO - "GET /trainers/ HTTP/1.1" 200 25240
+2026-05-12 15:06:15,283 - django.server - INFO - "GET /media/trainers/3eIlAioYJmKMEA080XfEujr1KblIjQ-Z.jpg HTTP/1.1" 304 0
+2026-05-12 15:06:15,283 - django.server - INFO - "GET /media/trainers/61482d186ec2bb1a4a52a597_65d7443cb25745.17954039.jpg HTTP/1.1" 304 0
+2026-05-12 15:06:15,286 - django.server - INFO - "GET /media/trainers/IMG_0210.jpg HTTP/1.1" 304 0
+2026-05-12 15:06:15,287 - django.server - INFO - "GET /media/trainers/_.jpg HTTP/1.1" 304 0
+2026-05-12 15:06:15,289 - django.server - INFO - "GET /media/trainers/c234aed4ea0b68332470f3768ae516fe.jpg HTTP/1.1" 304 0
+2026-05-12 15:06:15,291 - django.server - INFO - "GET /media/trainers/1000_F_250136584_eoJ4kBcMmpDApwoJneqsYju5milwV7Az.jpg HTTP/1.1" 304 0
+2026-05-12 15:06:15,297 - django.server - INFO - "GET /media/trainers/653263d9a2f5eeff1e05b716_65326405c18de6.68053234.jpg HTTP/1.1" 304 0
+2026-05-12 15:06:15,297 - django.server - INFO - "GET /media/trainers/584e65e8f5ebb1c9778b456d_587736d7b0b28.jpg HTTP/1.1" 304 0
+2026-05-12 15:06:15,298 - django.server - INFO - "GET /media/trainers/55d4dab840c0885e238b4c39_59ef39e9f2e66.jpg HTTP/1.1" 304 0
+2026-05-12 15:06:15,299 - django.server - INFO - "GET /media/trainers/4e72dff9022c89181495b0011bf2a6c1.jpg HTTP/1.1" 304 0
+2026-05-12 15:06:30,662 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129769
+2026-05-12 15:06:32,262 - main.views - INFO - Пользователь Администратор просматривает тренировку: АКВА ФИТНЕС
+2026-05-12 15:06:32,268 - django.server - INFO - "GET /workouts/11/ HTTP/1.1" 200 18094
+2026-05-12 15:06:32,326 - django.server - INFO - "GET /media/workouts/i_1.webp HTTP/1.1" 304 0
+2026-05-12 15:06:36,981 - main.views - INFO - Пользователь Администратор просматривает список тарифов
+2026-05-12 15:06:37,016 - django.server - INFO - "GET /tariffs/ HTTP/1.1" 200 32447
+2026-05-12 15:06:55,484 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129769
+2026-05-12 15:07:01,490 - users.views - INFO - ПРОФИЛЬ: Администратор просматривает свой профиль
+2026-05-12 15:07:01,512 - django.server - INFO - "GET /users/profile/ HTTP/1.1" 200 22107
+2026-05-12 15:07:06,116 - main.views - INFO - Пользователь Администратор просматривает список тарифов
+2026-05-12 15:07:06,149 - django.server - INFO - "GET /tariffs/ HTTP/1.1" 200 32447
+2026-05-12 15:07:10,168 - django.server - INFO - "GET /users/tariff/12/buy/ HTTP/1.1" 200 19065
+2026-05-12 15:07:11,200 - users.views - INFO -  ПОКУПКА ТАРИФА: Администратор купил тариф "Студенческий дневной 1 месяц" за 2100.00 ₽
+2026-05-12 15:07:11,202 - django.server - INFO - "POST /users/tariff/12/buy/ HTTP/1.1" 302 0
+2026-05-12 15:07:11,217 - users.views - INFO - ПРОФИЛЬ: Администратор просматривает свой профиль
+2026-05-12 15:07:11,234 - django.server - INFO - "GET /users/profile/ HTTP/1.1" 200 22624
+2026-05-12 15:07:14,487 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129769
+2026-05-12 15:07:19,513 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: ХАТХА-ЙОГА (2026-05-15 18:00:00)
+2026-05-12 15:07:19,515 - main.views - WARNING - ОТКАЗАНО: Пользователь Администратор - Ваш дневной тариф действует только до 17:00.
+2026-05-12 15:07:19,517 - django.server - INFO - "GET /schedule/24/book/ HTTP/1.1" 302 0
+2026-05-12 15:07:19,630 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 130210
+2026-05-12 15:08:00,027 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 15:08:00,802 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:08:01,900 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129769
+2026-05-12 15:08:02,854 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129769
+2026-05-12 15:10:23,181 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 15:10:24,017 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:10:58,979 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 15:10:59,686 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:13:40,079 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:13:47,503 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129996
+2026-05-12 15:13:48,209 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129996
+2026-05-12 15:13:57,311 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129764
+2026-05-12 15:14:03,754 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 15:14:04,561 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:14:34,446 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Здоровая спина (2026-05-12 11:00:00)
+2026-05-12 15:14:34,458 - main.views - WARNING - ОТКАЗАНО: Пользователь Администратор попытался записаться на ПРОШЕДШУЮ тренировку: Здоровая спина (2026-05-12)
+2026-05-12 15:14:34,476 - django.server - INFO - "GET /schedule/35/book/ HTTP/1.1" 302 0
+2026-05-12 15:14:34,589 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 130224
+2026-05-12 15:14:40,148 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: АКВА ФИТНЕС (2026-05-16 10:00:00)
+2026-05-12 15:14:40,157 - django.server - INFO - "GET /schedule/26/book/ HTTP/1.1" 200 18083
+2026-05-12 15:14:41,385 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: АКВА ФИТНЕС (2026-05-16 10:00:00)
+2026-05-12 15:14:41,404 - main.views - INFO -  НОВАЯ ЗАПИСЬ: Пользователь Администратор записался на тренировку: АКВА ФИТНЕС (2026-05-16 10:00:00)
+2026-05-12 15:14:41,405 - main.views - INFO -  СТАТИСТИКА: На тренировке "АКВА ФИТНЕС" записано 1/5 человек
+2026-05-12 15:14:41,407 - django.server - INFO - "POST /schedule/26/book/ HTTP/1.1" 302 0
+2026-05-12 15:14:41,504 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 130232
+2026-05-12 15:14:44,892 - users.views - INFO - ПРОФИЛЬ: Администратор просматривает свой профиль
+2026-05-12 15:14:44,914 - django.server - INFO - "GET /users/profile/ HTTP/1.1" 200 22759
+2026-05-12 15:14:50,096 - main.views - INFO - Пользователь Администратор пытается отменить запись на тренировку: АКВА ФИТНЕС (2026-05-16 10:00:00)
+2026-05-12 15:14:50,105 - django.server - INFO - "GET /booking/14/cancel/ HTTP/1.1" 200 18188
+2026-05-12 15:14:51,280 - main.views - INFO - Пользователь Администратор пытается отменить запись на тренировку: АКВА ФИТНЕС (2026-05-16 10:00:00)
+2026-05-12 15:14:51,305 - main.views - INFO - ОТМЕНА ЗАПИСИ: Пользователь Администратор отменил запись на тренировку: АКВА ФИТНЕС (2026-05-16 10:00:00)
+2026-05-12 15:14:51,306 - main.views - INFO - СТАТИСТИКА: На тренировке "АКВА ФИТНЕС" осталось мест: 5
+2026-05-12 15:14:51,308 - django.server - INFO - "POST /booking/14/cancel/ HTTP/1.1" 302 0
+2026-05-12 15:14:51,324 - users.views - INFO - ПРОФИЛЬ: Администратор просматривает свой профиль
+2026-05-12 15:14:51,341 - django.server - INFO - "GET /users/profile/ HTTP/1.1" 200 22585
+2026-05-12 15:14:53,846 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129764
+2026-05-12 15:15:00,656 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Здоровая спина (2026-05-12 11:00:00)
+2026-05-12 15:15:00,657 - main.views - WARNING - ОТКАЗАНО: Пользователь Администратор попытался записаться на ПРОШЕДШУЮ тренировку: Здоровая спина (2026-05-12)
+2026-05-12 15:15:00,659 - django.server - INFO - "GET /schedule/35/book/ HTTP/1.1" 302 0
+2026-05-12 15:15:00,755 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 130224
+2026-05-12 15:17:09,399 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 15:17:10,225 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:17:21,013 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 15:17:21,759 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:17:25,209 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 15:17:25,946 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:17:39,877 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 15:17:40,624 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:17:55,176 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 132359
+2026-05-12 15:18:06,254 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 15:18:07,006 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:18:55,830 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129764
+2026-05-12 15:21:25,693 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 15:21:26,490 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:22:02,681 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 127321
+2026-05-12 15:22:04,612 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 127321
+2026-05-12 15:22:22,636 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 127789
+2026-05-12 15:22:23,258 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 127789
+2026-05-12 15:22:28,530 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129765
+2026-05-12 15:22:58,719 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 126424
+2026-05-12 15:22:59,358 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 126424
+2026-05-12 15:22:59,697 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 126424
+2026-05-12 15:22:59,924 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 126424
+2026-05-12 15:23:00,124 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 126424
+2026-05-12 15:23:02,165 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 126424
+2026-05-12 15:23:08,212 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 129765
+2026-05-12 15:23:10,733 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Здоровая спина (2026-05-12 11:00:00)
+2026-05-12 15:23:10,734 - main.views - WARNING - ОТКАЗАНО: Пользователь Администратор попытался записаться на ПРОШЕДШУЮ тренировку: Здоровая спина (2026-05-12)
+2026-05-12 15:23:10,736 - django.server - INFO - "GET /schedule/35/book/ HTTP/1.1" 302 0
+2026-05-12 15:23:10,847 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 130225
+2026-05-12 15:23:56,737 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\main\views.py changed, reloading.
+2026-05-12 15:23:57,506 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2026-05-12 15:24:45,269 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 138649
+2026-05-12 15:24:52,677 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: ХАТХА-ЙОГА (2026-05-12 18:00:00)
+2026-05-12 15:24:52,679 - main.views - WARNING - ОТКАЗАНО: Пользователь Администратор - Ваш дневной тариф действует только до 17:00.
+2026-05-12 15:24:52,682 - django.server - INFO - "GET /schedule/22/book/ HTTP/1.1" 302 0
+2026-05-12 15:24:52,769 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 139090
+2026-05-12 15:25:13,837 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 136023
+2026-05-12 15:25:15,679 - main.views - INFO - Пользователь Администратор пытается записаться на тренировку: Плавание (2026-05-13 12:00:00)
+2026-05-12 15:25:15,684 - main.views - WARNING -  Пользователь Администратор уже записан на тренировку: Плавание
+2026-05-12 15:25:15,687 - django.server - INFO - "GET /schedule/28/book/ HTTP/1.1" 302 0
+2026-05-12 15:25:15,777 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 136451
+2026-05-12 15:25:23,172 - django.server - INFO - "GET /admin/main/schedule/add/ HTTP/1.1" 200 15992
+2026-05-12 15:25:23,236 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 15:25:41,017 - django.server - INFO - "POST /admin/main/schedule/add/ HTTP/1.1" 302 0
+2026-05-12 15:25:41,083 - django.server - INFO - "GET /admin/main/schedule/ HTTP/1.1" 200 22617
+2026-05-12 15:25:41,154 - django.server - INFO - "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+2026-05-12 15:25:45,180 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 142854
+2026-05-12 15:25:46,009 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 142854
+2026-05-12 15:25:46,417 - django.server - INFO - "GET /schedule/ HTTP/1.1" 200 142854
+2026-05-12 15:37:20,276 - django.utils.autoreload - INFO - C:\Users\ytoch\PythonProject\Fitness_Club\users\models.py changed, reloading.
+2026-05-12 15:37:21,153 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
